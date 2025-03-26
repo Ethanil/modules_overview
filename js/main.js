@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       let examNavigation = "";
   
       // Create exam details and navigation buttons
-      module.exams.forEach((exam, index) => {
+      module.exams.sort((a,b)=>new Date(b.written_date) - new Date(a.written_date)).forEach((exam, index) => {
         const written_date = new Date(exam.written_date);
         const results_received = new Date(exam.result_release);
         const daysForCorrection =
@@ -21,9 +21,7 @@ document.addEventListener("DOMContentLoaded", async () => {
               <p><strong>Results received on:</strong> ${results_received.toLocaleDateString()} 
                  <span>(Days for correction: ${daysForCorrection})</span>
               </p>
-              <p><strong>Average grade:</strong> ${calculateAverageGrade(
-                exam
-              )}</p>
+              <p><strong>Average grade:</strong> ${exam.average}</p>
               <div class="chart-container">
                   <canvas id="chart-${module.id}-${index}"></canvas>
               </div>
@@ -118,25 +116,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   });
 
-function calculateAverageGrade(exam) {
-  const { totalStudents, totalGradePoints } = Object.entries(
-    exam.grades
-  ).reduce(
-    (acc, [gradeStr, count]) => {
-      const grade = parseFloat(gradeStr);
-      if (!Number.isNaN(grade) && Number.isInteger(count) && count > 0) {
-        acc.totalStudents += count;
-        acc.totalGradePoints += grade * count;
-      }
-      return acc;
-    },
-    { totalStudents: 0, totalGradePoints: 0 }
-  );
 
-  return totalStudents > 0
-    ? Math.round((totalGradePoints / totalStudents) * 1000) / 1000
-    : null;
-}
 const chartInstances = {};
 function createGradeChart(module, index) {
   const canvasId = `chart-${module.id}-${index}`;
