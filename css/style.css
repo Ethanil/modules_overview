@@ -1,0 +1,75 @@
+.module-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.module-title {
+    font-size: 1.8rem;
+    color: #2a3d66;
+    margin-bottom: 15px;
+}
+
+.module-details p {
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+.exam-details {
+    display: none;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #54a0ff;
+    margin-bottom: 15px;
+}
+
+.exam-navigation {
+    margin-top: 20px;
+}
+
+.nav-button {
+    background-color: #2a3d66;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+.nav-button:hover {
+    background-color: #3b4a7a;
+}
+
+.chart-container {
+    max-width: 1000px;
+    margin: 20px auto;
+}
+
+.chart-container canvas {
+    max-width: 100%;
+    height: 400px;
+}
+
+.description.collapsed {
+    display: none;
+}
+
+.toggle-description-btn {
+    background-color: #2a3d66;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.toggle-description-btn:hover {
+    background-color: #3b4a7a;
+}

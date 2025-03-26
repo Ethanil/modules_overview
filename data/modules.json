@@ -1,0 +1,2631 @@
+{
+    "modules": [
+        {
+            "id": "20-00-0093",
+            "name": "Sicherheit in Multimedia Systemen und Anwendungen",
+            "lecturer": "Honorarprof. Dr.-Ing. Martin Steinebach",
+            "description": "Lehrinhalte : Die Studierenden erhalten einen Überblick über die Herausforderungen der Multimedia Sicherheit und den bekannten Lösungsansätzen hierzu. Dazu gehören die Konzepte der Medien-Integrität, -Vertraulichkeit und -Authentizität. Verfahren aus dem Bereichen digitale Wasserzeichen, robuste Hashverfahren, partielle Verschlüsslung, Multimedia Forensik und DRM sind dem Studenten bekannt. Er kann Herausforderungen der Multimedia Sicherheit aus einer Palette von Lösungsmechanismen bedarfsabhängig optimal adressieren. Partielle Verschlüsselungsverfahren für Video und Audio zur Sicherung der Vertraulichkeit und der Authentizität Digitale Wasserzeichen für Bild und Audio - Anwendungsgebiete, Methoden und Verfahren Digital Rights Management und Kopierschutzverfahren Visuelle Kryptographie Neben der Diskussion von Algorithmen, deren Möglichkeiten, Grenzen und Schwachstellen nehmen auch die kommerziellen und gesellschaftlichen Aspekte des Einsatzes von Schutzmaßnahmen ihren Platz in der Vorlesung ein. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326828762,-N391244326800763,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0219",
+            "name": "IT Sicherheit",
+            "lecturer": "M.Sc. Donika Mirdita; Prof. Dr. Haya Schulmann; Prof. Dr. rer. nat. Michael Waidner",
+            "description": "Lehrinhalte : Diese Vorlesung bietet den Studierenden einen tiefen Einblick in einige der wichtigsten Themen der Internetsicherheit: - Network Security - Routing Security - Web Security - Security Engineering Die Studierenden lernen, wie moderne Cyberangriffe ablaufen, welche Schwachstellen ausgenutzt werden und welche Techniken und Protokolle verwendet werden können, um sie zu beheben und Systeme zu verteidigen. In dieser Vorlesung werden Angriffs- und Verteidigungstechniken auf Grundlage neuester wissenschaftlicher Veröffentlichungen behandelt. Theoretische und praktische Übungen testen die Fähigkeit der Studierenden, verschiedene Cyberangriffe zu erkennen und sich davor zu schützen. Nach erfolgreicher Teilnahme an der Veranstaltung sind die Studierenden in der Lage, kritisch über gängige Mechanismen und Protokolle zur Erhöhung der IT-Sicherheit heutiger Systeme zu diskutieren. Studierende haben nach Abschluss der Veranstaltung ein breites Wissen über IT-Sicherheit im Internet und sind mit modernen IT-Schutzkonzepten aus dem Bereich Network-, Routing-, Web-, und Software-Sicherheit vertraut. Sie sind in der Lage, Angriffsvektoren in IT-Systemen zu erkennen und Gegenmaßnahmen zu entwickeln. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325020563,-N391244325060564,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0362",
+            "name": "Formale Methoden der Informationssicherheit",
+            "lecturer": "Prof. Dr.-Ing. Heiko Mantel",
+            "description": "Lehrinhalte : - formale Modellierung sicherheitskritischer Systeme in Prädikatenlogik - Theoretische Grundlagen von Zugriffskontrollen und Informationsflusskontrollen - formale Modellierung von Sicherheitseigenschaften in Prädikatenlogik - Unterscheidung von qualitativen und quantitativen Sicherheitseigenschaften - Entscheidbarkeits- und Komplexitätsresultate für Sicherheitseigenschaften - Verifikation von Sicherheitsgarantien in verteilten Systemen - Auswirkung von Komposition und Verfeinerung auf Sicherheitsgarantien - formale Sprachen zur Beschreibung von Sicherheitspolitiken und deren Semantik - Zertifizierung sicherheitskritischer Systeme ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324549518,-N391244324561519,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0480",
+            "name": "ATHENE Lectures",
+            "lecturer": "Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323340398,-N391244323370399,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0512",
+            "name": "Netzsicherheit",
+            "lecturer": "M.Sc. Lucas Becker; Prof. Dr.-Ing. Matthias Hollick; M.Sc. Leon Janzen",
+            "description": "Lehrinhalte : Die integrierte Veranstaltung Netzsicherheit umfasst Sicherheits-Prinzipien und -Praxis in Telekommunikationsnetzen und dem Internet. Die grundlegenden Verfahren aus dem Bereich IT Sicherheit und Kryptographie werden auf den Bereich der Kommunikationsnetze übertragen. Hierbei verfolgen wir einen Top-down Ansatz. Beginnend mit der Anwendungsschicht erfolgt eine detaillierte Betrachtung von Prinzipien und Protokollen zur Absicherung von Netzen. Ergänzend zu etablierten Mechanismen werden ausgewählte aktuelle Entwicklungen im Bereich Netzsicherheit erläutert. Lerninhalte: - Netzsicherheit: Einführung, Motivation und Herausforderungen - Grundlagen: Ein Referenzmodell für Netzsicherheit, Sicherheitsstandards für Netze und das Internet, Bedrohungen, Angriffe, Sicherheitsdienste und -mechanismen - Kryptographische Grundlagen zur Absicherung von Netzen: Symmetrische Kryptographie und deren Anwendung in Netzen, asymmetrische Kryptographie und deren Anwendung in Netzen, unterstützende Mechanismen zur Implementierung von Sicherheitslösungen - Sicherheit auf der Anwendungschicht - Sicherheit auf der Transportschicht - Sicherheit auf der Vermittlungsschicht - Sicherheit auf der Sicherungsschicht - Sicherheit auf der Bitübertragungsschit und physische Sicherheit - Angewandte Netzsicherheit: Firewalls, Intrusion Detection Systeme - Ausgewählte Themen der Netzsicherheit ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325352600,-N391244325392601,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0581",
+            "name": "Embedded System Security",
+            "lecturer": "Prof. Dr.-Ing. Ahmad-Reza Sadeghi",
+            "description": "Lehrinhalte : Trusted Computing - Authentifiziertes Booten - Binding und Sealing - Messen der Plattform-Integrität und Attestierung - Direct Anonymous Attestation - On-board Credentials Mobile Sicherheit mit Fokus auf Smartphones - Sicherheitsarchitekturen - Ausgewählte Zugriffsmodelle - Kontext-basierte Sicherheitsrichtlinien - Ausgewählte moderne Angriffstechniken Hardware-basierte Kryptographie - Sichere Berechnungen basierend auf Hardware - Einführung in Physikalisch Unklonbare Funktionen (PUFs) ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324431507,-N391244324404508,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0583",
+            "name": "Sichere Mobile Systeme",
+            "lecturer": "Prof. Dr.-Ing. Matthias Hollick",
+            "description": "Lehrinhalte : Die Vorlesung Sichere Mobile Systeme befasst sich mit Fragen zur Sicherheit in drahtlosen und Mobilen Netzen und Kommunikationssystemen. Grundlagen der Thematik werden durch aktuelle Forschungsthemen ergänzt. Lerninhalte: - Sicherheitsbetrachtung und Modellierung von Bedrohungen bei mobilen und drahtlosen Systemen - Ausgewählte Angriffe und Sicherheitsmechanismen spezifisch für mobile und drahtlosen Systeme - Sicherheit in drahtlosen Sensornetzen - Sicherheit in drahtlosen Mesh-Netzen - Bedrohungen und Schutz der Privatsphäre in mobilen und drahtlosen Systemen - Sicherheit in zellularen Netzen (GSM, UMTS, LTE) - Etablierung von Vertrauen - Ausgewählte Forschungsthemen in mobilen und drahtlosen Systemen ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327754866,-N391244327720867,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0680",
+            "name": "Forschungsorientierte Kryptographie",
+            "lecturer": "Prof. Dr. phil. nat. Marc Fischlin",
+            "description": "Lehrinhalte : Aktuelle Arbeiten aus dem Gebiet der Kryptographie und Komplexitätstheorie verstehen und neue Forschungsansätze herausarbeiten. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327480838,-N391244327441839,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0969",
+            "name": "Schutz in vernetzten Systemen -Vertrauen, Widerstandsfähigkeit und Privatheit",
+            "lecturer": "Priv.-Doz. Dr. habil. Andrea Tundis",
+            "description": "Lehrinhalte : Die Vorlesung Schutz in vernetzten Systemen behandelt Konzepte der IT-Sicherheit und Digitalizierung, die über die klassisch gelehrten Inhalte hinaus geht. Diese klassischen Inhalte, bspw. Kryptographie, werden als essenzielle Grundlagen dieser Veranstaltung gesehen. In den Fokus dieser Vorlesung steht der Schutz erweiterterte Ziele in den immer weiter vordringendenen verteilen Systemen. - Schutz in vernetzten Systemen: Hintergrund, Motivation und Herausforderungen - Privatheit: Definitionen, Modelle, Daten-Anonymität - Digitalizierung: Modelle und Mechanismen (z.B. Distributed Ledger Technology/Blockchain, Digitale Zwillinge) - Sicherheit & Ökonomie - Widerstandsfähigkeit: Modelle, Netzwerk-Angriffserkennungs-Systeme, kollaborative Angriffserkennung, Honeypots - Resilient Networks: Messung von Resilienz und Verlässlichkeit (Dependability), Verfahrung zu Steigerung der Resilienz in verteilten Systemen Die Vorlesung wird mit einer mündlichen Prüfung abgeschlossen, die aus einer Posterpräsentation zu einer Aufgabe besteht, die mit den Themen der Lehrveranstaltung verbunden ist, sowie aus Fragen/Diskussionen zu den in der Lehrveranstaltung behandelten Themen. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326745748,-N391244326754749,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1010",
+            "name": "Blockchain Technology",
+            "lecturer": "Prof. Ph.D. Sebastian Faust",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392813448451405,-N392813448440406,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1026",
+            "name": "Informationstechnologie für Frieden und Sicherheit",
+            "lecturer": "Dr. rer. nat. Marc-André Kaufhold; Prof. Dr. Dr. Christian Reuter",
+            "description": "Lehrinhalte : Technologische und wissenschaftliche Fortschritte, insbesondere die rapiden Entwicklungen im Bereich der Informationstechnologie (IT), spielen im Bezug auf Frieden und Sicherheit eine zentrale Rolle. Diese Lehrveranstaltung adressiert die Bedeutung sowie die Potenziale und Herausforderungen von IT für Frieden und Sicherheit. Zu diesem Zweck bietet der Kurs eine Einführung in Friedens-, Konflikt- und Sicherheitsforschung und konzentriert sich dabei auf die Perspektiven der Naturwissenschaften, Technik und Informatik. Dabei werden Konflikte, Krieg und Frieden im Cyberraum, Cyber-Rüstungskontrolle, -Attribution und -Infrastrukturen sowie Kultur und Interaktion näher beleuchtet, bevor abschließend ein Ausblick gegeben wird. INHALTE: - Einführung in die naturwissenschaftliche/technische Friedensforschung und IT-Perspektiven auf Friedens-, Konflikt- und Sicherheitsforschung - Cyberkrieg, Spionage, Abwehr, Darknets, kritische Infrastrukturen, kulturelle Gewalt - Cyberfrieden, Dual-Use, vertrauens- und sicherheitsbildende Maßnahmen, Rüstungskontrolle, unbemannte Systeme, Verifikation, Attribution STRUKTUR: - Teil I: Einleitung und Grundlagen (Einleitung und Überblick, IT in Friedens-, Konflikt- und Sicherheitsforschung (Naturwissenschaftliche/technische Friedensforschung)) - Teil II: Cyber-Konflikte und -Krieg (Informationskrieg, Cyberspionage und Cyberabwehr, Darknets als Instrument zur Cyber-Kriegsführung) - Teil III: Cyber-Frieden (Von Cyber-Krieg zu Cyber-Frieden, Dual-Use und Dilemmata in der Cyber-Sicherheit, Vertrauens- und sicherheitsbildende Maßnahmen für Cyber-Streitkräfte) - Teil IV: Cyber-Rüstungskontrolle (Rüstungskontrolle und ihre Anwendbarkeit im Cyberraum, Unbemannte Systeme: Die robotertechnische Revolution, Verifikation im Cyberraum) - Teil V: Cyber-Attribution und -Infrastrukturen (Attribution von Cyberattacken, Resiliente kritische Infrastrukturen, Sicherheit kritischer Informationsinfrastrukturen) - Teil VI: Soziale Interaktion (Safety und Security, Kulturelle Gewalt, Soziale Medien und IKT-Nutzung in Krisengebieten) - Teil VII: Ausblick (Die Zukunft von IT in Frieden und Sicherheit) Besonderheiten für das aktuelle Semester finden Sie unter www.peasec.de/lehre; den Moodle-Kurs unter www.itps.peasec.de ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391545436237025,-N391545436241026,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1032",
+            "name": "Kryptographische Protokolle",
+            "lecturer": "Prof. Dr.-Ing. Thomas Schneider",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325172577,-N391244325127578,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1174",
+            "name": "FLSec: Securing Federated Learning against Poisoning Attacks",
+            "lecturer": "Prof. Dr.-Ing. Ahmad-Reza Sadeghi",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106447123338,-N393106447190339,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1190",
+            "name": "Cryptography on Hardware",
+            "lecturer": "Prof. Dr. Amir Moradi",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327481842,-N391244327441843,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1216",
+            "name": "Vorbereitung und Reaktion auf Cybervorfälle",
+            "lecturer": "Prof. Dr. Ira Helsloot; Prof. Dr. Dr. Christian Reuter",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393084781722217,-N393084781764218,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1218",
+            "name": "Theory and Practice of Symmetric Cryptography",
+            "lecturer": "Prof. Ph.D. Sebastian Faust; Dr. rer. nat. Maximilian Orlt",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393084966145225,-N393084966154226,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1219",
+            "name": "Datenschutz- und Cybersicherheitsrecht - eine Einführung für Informatiker",
+            "lecturer": "Dr. Annika Selzer; Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393085358758233,-N393085358753234,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1224",
+            "name": "Digitale Textforensik",
+            "lecturer": "Dr. Oren Halvani; Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393085874407266,-N393085874437267,-N0,-N0,-N0",
+            "fields": [
+                "IT Sicherheit"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-1010",
+            "name": "Kommunikationsnetze I",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann",
+            "description": "Lehrinhalte : In diesem Modul werden die Technologien, die die Grundlage heutiger Kommunkationsnetze bilden, vorgestellt und analysiert. Die Vorlesung deckt Grundlagenwissen über Kommunikationsnetze ab, mit Schwerpunkt einerseits auf übergreifenden Prinzipien (beispielsweise Schichtenarchitekturen, Protokolle, Dienstmodelle) und andererseits auf den Protokollen des Internet. Die Anwendungsschicht, Transportschicht, Netzwerkschicht und Sicherungsschicht werden detailliert betrachtet und Bezüge zur Bitübertragungsschicht werden hergestellt. Die Betrachtung der Anwendungsschicht konzentriert sich auf exemplarisch ausgewählte Protokolle wie sie bei E-Mail und beim World Wide Web existieren; diese dienen der Veranschaulichung grundlegender Zusammenhänge und Entwurfsentscheidungen. Auf der Transportschicht werden UDP und TCP mit ihren Dienstmodellen und den dahinterstehenden Protokollmechanismen sowie grundlegende Fragen zu Flusskontrolle, Zuverlässigkeit und Überlastkontrolle betrachtet. Zur Netzwerkschicht liegt der Schwerpunkt auf den grundsätzlichen Fragen der Wegewahl und der Adressierung in IP. Auf der Sicherungsschicht werden Fragen der Flusskontrolle, der Rahmenbildung und des Medienzugriffs beleuchtet. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275744790229,-N391275744733230,-N0,-N0,-N0",
+            "fields": [
+                "Netze und verteilte Systeme"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-2350",
+            "name": "Routing, Switching und Forwarding",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann",
+            "description": "Lehrinhalte : Das Modul vermittelt vertieftes Wissen im Bereich der Netzwerkschicht sowie zu daran angrenzenden Fragestellungen der Sicherungsschicht. Für unterschiedliche Netzwerktypen und Anforderungen werden Verfahren für die Wegewahl, die Repräsentation von Routing- und Switching-Daten und die Paketweiterleitung betrachtet. Im Vordergrund stehen dabei Fragen des Protokolldesigns hinsichtlich Robustheit, Stabilität und Effizienz, auch im Zusammenspiel mit anderen Protokollschichten. Es werden auch Sicherheitsaspekte der Netzwerkschicht betrachtet, beispielsweise Firewall-Technologien oder die Sicherheit von BGP. Die begleitende Übung besteht teilweise aus in Laborübungs-Blöcken in Gruppenarbeit. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275768763215,-N391275768786216,-N0,-N0,-N0",
+            "fields": [
+                "Netze und verteilte Systeme"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0056",
+            "name": "Netz-, Verkehrs- und Qualitäts-Management für Internet Services",
+            "lecturer": "PD Dr. Gerhard Hasslinger",
+            "description": "Lehrinhalte : Anforderungen und Maßnahmen zur Sicherung der Quality-of-Service (QoS) - Kriterien aus Anwendungs- & Nutzer-Sicht (QoE: Quality-of-Experience) - QoS Architektur in IP-Netzen: Differentiated & Integrated Services - QoS Support & Auswirkung je Anwendung im IP Verkehrs-Mix (Video-Streaming, VoIP, Web Browsing, Downloads, Social Networking, Gaming etc.) Qualitätssicherung in der Netzinfrastruktur von IP Service Providern - Einfluss der Netz- und Transportebene: Routing (OSPF, BGP), Multiprotocol Label Switching (MPLS), TCP mit Absicherung gegen Fehler und Ausfälle - Messung, Monitoring, Optimierung von IP Verkehr bzgl. QoS - Standardisierung und Kontrolle von QoS (bei IETF, BNetzA, etc.) Qualitätssicherung in Service Overlays und auf Anwendungsebene - Content Delivery Netze (CDN), Clouds, Peer-to-Peer Netze (P2P) - Optimierung verteilter Daten-Caches, von Transport-Pfaden, Skalierbarkeit ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N388753384981948,-N388753384993949,-N0,-N0,-N0",
+            "fields": [
+                "Netze und verteilte Systeme"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "10-01-0036",
+            "name": "Bioinformatik-Übung",
+            "lecturer": "Prof. Dr. rer. nat. Kay Hamacher; Dr. rer. nat. Arnulf Kletzin",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N390574230779013,-N390574230739014,-N0,-N0,-N0",
+            "fields": [
+                "Robotik, Computational und Computer Engineering"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1047",
+            "name": "Reinforcement Learning: Von Grundlagen zu den tiefen Ansätzen",
+            "lecturer": "Prof. Ph.D. Georgia Chalvatzaki; Ph.D. Davide Tateo",
+            "description": "Lehrinhalte : • Markov Decision Process • Value Functions, Bellman Operator, Policies • Dynamic Programming • Monte-Carlo Reinforcement Learning • Temporal Difference Learning • Tabular Reinforcement Learning • Reinforcement Learning with Function Approximation • Deep Q-Learning • On-policy and off-policy deep actor-critic • Model-based Reinforcement Learning • Intrinsic Motivation ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326674740,-N391244326630741,-N0,-N0,-N0",
+            "fields": [
+                "Robotik, Computational und Computer Engineering"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1225",
+            "name": "Robot Learning 1",
+            "lecturer": "Prof. Ph. D. Jan Peters",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393095702471560,-N393095702425561,-N0,-N0,-N0",
+            "fields": [
+                "Robotik, Computational und Computer Engineering"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1226",
+            "name": "Robot Learning 2",
+            "lecturer": "Prof. Ph. D. Jan Peters",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393095702463567,-N393095702435568,-N0,-N0,-N0",
+            "fields": [
+                "Robotik, Computational und Computer Engineering"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-su-2010",
+            "name": "Software-Engineering - Wartung und Qualitätssicherung",
+            "lecturer": "Prof. Dr. rer. nat. Andreas Schürr; M.Sc. Alexander Lieb",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275742866995,-N391275742890996,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": {"description": "linear with exercises", "maximum_bonus": 1.0},
+            
+            "exams": [
+                {
+                    "written_date": "2024-07-29",
+                    "result_release": "2024-08-08",
+                    "grades": {
+                        "1.0": 28,
+                        "1.3": 29,
+                        "1.7": 21,
+                        "2.0": 30,
+                        "2.3": 33,
+                        "2.7": 19,
+                        "3.0": 23,
+                        "3.3": 7,
+                        "3.7": 9,
+                        "4.0": 0,
+                        "5.0": 7
+                    }
+                }
+            ],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0113",
+            "name": "Algorithmische Modellierung / Grundlagen des Operations Research",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "Lehrinhalte : Lernziele: Modellierungsstrategien für Entscheidungs-, Konstruktions- und Optimierungsprobleme kennen lernen Erlernen einer algorithmischenn Modellierungssprache Erwerben der Fähigkeit, komplexe Probleme adäquat zu modellieren Stoffplan: Algorithmische Optimierungssprachen wie OPL Modellierung innerhalb eines restriktiven Modellierungsrahmens (zum Beispiel lineare Optimierung oder ganzzahlige lineare Optimierung) Modellierung als kombinatorische Optimierungsprobleme (z.B. Netzwerkflussprobleme, Färbungsprobleme, Wegeprobleme) Komplexe Fallbeispiele aus der Praxis, zum Beispiel: Modellierung der Fahrplanauskunft im Bahnverkehr Modellierung der Steuerung von Fertigungsrobotern deterministisches und stochastisches Scheduling Diploma Supplement: Algorithmic modeling languages; modeling problems as (integer) linear programming problems; complex case studies; applications in logistics and manufacturing; deterministic and stochastic scheduling; combinatorial optimization problems ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324089465,-N391244324056466,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0660",
+            "name": "Automatisches Beweisen",
+            "lecturer": "Prof. Dr. rer. nat. Reiner Hähnle",
+            "description": "Lehrinhalte : - Theoretische Grundlagen der im automatischen Beweisen verwendeten Kalküle für Logik erster Stufe - Korrektheits- und Vollständigkeitsbeweise - Algorithmen und Datenstrukturen, die in automatischen Beweisern für Logik erster Stufe eingesetzt werden - Vergleich verschiedener Ansätze im automatischen Beweisen - Grundlagen moderner SAT- und SMT-Lösungswerkzeuge ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392324980288811,-N392324980204812,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0701",
+            "name": "Fortgeschrittener Compilerbau",
+            "lecturer": "Prof. Dr.-Ing. Andreas Koch",
+            "description": "Lehrinhalte : - Compilierung und Laufzeitumgebung für objektorientierte Programmiersprachen - Kontrollflussgraphen als Zwischendarstellung - Statische Datenflußanalyse - Static Single Assignment Form - Eliminierung totaler und partieller Redundanz - Skalare Optimierung - Registerallokation - Ablaufplanung - Schleifenoptimerung - Aufbau realer Compiler (z.B. Phasen, Zwischendarstellung, Compilefluß) ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324776534,-N391244324784535,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1115",
+            "name": "Model Checking",
+            "lecturer": "Adele Veschetti",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325337597,-N391244325390598,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1122",
+            "name": "Programmanalyse",
+            "lecturer": "Dr. rer. nat. Sven Keidel",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327353832,-N391244327317833,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1136",
+            "name": "Einführung in das Quantencomputing",
+            "lecturer": "Prof. Dr. rer. nat. Mariami Gachechiladze",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324331501,-N391244324380502,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1215",
+            "name": "Fortgeschrittene parallele Programmierung",
+            "lecturer": "Prof. Dr. rer. nat. Felix Wolf",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393006535526103,-N393006535520104,-N0,-N0,-N0",
+            "fields": [
+                "Software Systeme und formale Grundlagen"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-de-2050",
+            "name": "Serious Games",
+            "lecturer": "PD Dr.-Ing. Stefan Peter Göbel",
+            "description": "Lehrinhalte : Einführung in die Thematik „Serious Games“: wissenschaftlich-technische Grundlagen, Anwendungsgebiete und Trends. Die Einzelthemen umfassen unter anderem: • Einführung in Serious Games • Gamedesign und interaktives Storytelling • Spieleentwicklung und Autorensysteme • Sensorik und Human-Computer-Interfaces • Virtual Reality • Künstliche Intelligenz in Serious Games und deren Entwicklung • Games for Health • User Experience und User Centric Design • Evaluation von Serious Games • Serious Games Anwendungsbereiche und Best-Practice Beispiele Die Übungen enthalten Theorie- und Praxisanteile. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275747025540,-N391275747069541,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0041",
+            "name": "Graphische Datenverarbeitung II",
+            "lecturer": "Prof. Dr. techn. Wolf Dietrich Fellner; M.Sc. Daniel Jan Ströter",
+            "description": "Lehrinhalte : Lernziele: Grundlagen der Geometrischen Modellierung, Modelle in der graphischen Datenverarbeitung (Kurven, Oberflächen und Volumen), Displaymethoden, Renderingtechniken, Datenstrukturen und Algorithmen für Netze und Netzkonvertierung Stoffplan: Kurven und Oberflächen (Polynome, Splines, RBF) Interpolation und Approximation, Displaytechniken, Algorithmen: de Casteljau, de Boor, Oslo,... Volumen und implizite Oberflächen Visualisierungstechniken, Iso-Surfaces, MLS, Oberflächen-Rendering, Marching-Cubes,... Netze Kompression , Netz-Vereinfachung, Multiskalen Darstellung, Subdivision,... Diploma Supplement: Curves and surfaces (polynomials, splines, RBF) Interpolation and approximation, display techniques, algorithms: de Casteljau, de Boor, Oslo,... Volume and implicite surfaces, visualization techniques, iso-surfaces, MLS, surface rendering, marching cubes meshes, compression, simplication, multiscale expansion, subdivision ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324831540,-N391244324879541,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0155",
+            "name": "Bildverarbeitung",
+            "lecturer": "Prof. Dr. Arjan Kuijper",
+            "description": "Lehrinhalte : Überblick über die Grundlagen der Bildverarbeitung: - Bildeigenschaften - Bildtransformationen - einfache und komplexere Filterung - Bildkompression - Segmentierung - Klassifikation ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324161482,-N391244324107483,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0160",
+            "name": "Augmented Vision",
+            "lecturer": "Dr.-Ing. Pavel Rojtberg",
+            "description": "Lehrinhalte : Lernziele : Kurzbeschreibung: Einführung in die Problematik der Computer Vision in Hinblick auf Augmented Reality. Die Lerninhalte umfassen: * Computer-Vision-basiertes Tracking * 3D-Interaktionen * 3D-Standards * Kamerakalibrierung * Echtzeit 3D-Rekonstruktion * 3D Kameratechnologien * Objekterkennung * Augmented Reality Praxisbeispiele und Anwendungsfelder Stoffplan : Im Rahmen dieser Lehrveranstaltung werden zuerst die Grundlagen, Begriffsbildungen und Referenzmodelle zur Einordnung der Thematik im Rahmen der Computer-Graphik aufgezeigt. Aufbauend darauf werden die besonderen Technologien, Algorithmen und Methoden der Visualisierung und AR behandelt. Dazu gehören: Gerätetechnologien (Hardware, Ein- und Ausgabegeräte, Haptik, 3D-Sound, etc. ), die für diesen Bereich spezifischen Probleme der Datenschnittstellen (Standards, Vorverarbeitung, Systeme, etc.), Interaktionstechniken (inkl. Echtzeit-Kollisionserkennung), Darstellungsverfahren (Volumenvisualisierung, Echtzeit-Rendering, Radiosity), Handhabung großer und komplexer Datenmengen, Echtzeit-Simulationsverfahren und Parallelisierungsstrategien (inkl. verteilter Anwendungen). Schließlich werden diese Techniken an Beispielen aktueller Forschungsarbeiten aus den Bereichen Visualisierung (Medizin, Wetter, Strömungsdaten) und AR (Virtual Prototyping, Training, Einbau- Montagesimulation, Architektur walk-through etc.) dokumentiert. Diploma Supplement : real-time rendering, color systems, light simulation, virtual reality, augmented reality, camera calibration ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324116479,-N391244324179480,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0401",
+            "name": "Computer Vision II",
+            "lecturer": "Prof. Ph. D. Stefan Roth",
+            "description": "Lehrinhalte : - Grundlegende Inferenz- und Lernverfahren der Computer Vision - Grundlagen der tiefen neuronalen Netzwerke in der Computer Vision - Grundlagen der Bayes’schen Netze und Markov’schen Zufallsfelder - Computer Vision als (probabilistische) Inferenz - Fehlerfunktionen und robuste Schätzung/Modellierung - Bildrestaurierung - Stereo - Optischer Fluß - Objektdetektion - Tracking von (artikulierten) Objekten - Semantische Segmentierung - Aktuelle Themen der Forschung ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324236485,-N391244324288486,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0535",
+            "name": "Human Computer Interaction",
+            "lecturer": "Prof. Dr. rer. nat. Jan Gugenheimer; Dr. rer. pol. Veronika Krauß",
+            "description": "Lehrinhalte : Die Vorlesung stellt verschiedene grundlegende Konzepte, Modelle und Theorien aus dem Bereich der Human Computer Interaction (HCI) vor. Die Veranstaltung umfasst die folgenden Inhalte: - Theoretische Grundlagen aus Psychologie und Interaktionsgestaltung als Basis für die Gestaltung von Nutzerschnittstellen - Überblick über verschiedene Typen von Nutzerschnittstellen - Command-line interfaces - Grafische Nutzerschnittstellen - Interaktive Oberflächen (Tabletops, Multitouch, ...) - Mobile user interfaces - Pen-based user interfaces (elektronische Stifte) - Tangible User Interfaces, Organic User Interfaces - Sprachbasierte User Interfaces - Augmented und Virtual Reality - Beurteilung, Messung, Bewertung von Nutzerschnittstellen - Nutzerstudien - Quantitative Evaluationsmethoden - Qualitative Evaluationsmethoden - Nutzerzentrierte Softwareentwicklung - Datenvisualisierung ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324970547,-N391244324923548,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0682",
+            "name": "Physikalisch-basierte Simulation und Animation",
+            "lecturer": "Dr.-Ing. Daniel Weber",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325407614,-N391244325487615,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0793",
+            "name": "User-Centered Design in Visual Computing",
+            "lecturer": "Prof. Dr.-Ing. Jörn Kohlhammer",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327133794,-N391244327134795,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1035",
+            "name": "Tiefe Generative Modelle",
+            "lecturer": "Ph.D. Anirban Mukhopadhyay",
+            "description": "Lehrinhalte : Generative Modelle, implizite und explizite Modelle, Variational AutoEncoders, Generative Adversarial Networks, Numerische Optimierung für generative Modelle, Anwendungen in der medizinischen Bildverarbeitung ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327064788,-N391244327013789,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1116",
+            "name": "Hands-On HCI",
+            "lecturer": "Prof. Dr. rer. nat. Eberhard Max Mühlhäuser; M.Sc. Dominik Schön",
+            "description": "Lehrinhalte : Vielleicht haben Sie bereits von Virtual / Augmented Reality, 3D-Druck, am Körper getragenen oder anfassbaren (tangible) Benutzeroberflächen gehört oder diese sogar ausprobiert. Der Bereich Human-Computer-Interaktion (HCI) deckt all diese spannenden Themen ab und bietet die Möglichkeit, neue Prototypen zu bauen und diese in Benutzerstudien auszuprobieren. Wenn Sie Theorie und Praxis im Bereich der HCI verbinden möchten ist dieser Kurs - Hands-On HCI - genau das Richtige für Sie. Das Ziel des Kurses ist es, Sie durch den gesamten Forschungszyklus im Bereich der HCI zu führen. Damit kann dieser Kurs eine Vorbereitung für Ihre zukünftige Bachelor- / Masterarbeit in diesem Bereich sein, sowie einen ersten Baustein auf Ihrem akademischen Weg darstellen. Der Kurs besteht aus theoretischen und praktischen Teilen. Der theoretische Teil umfasst 8 Vorlesungen über Methoden zum Auffinden und Bewerten relevanter Literatur für die eigene zukünftige Forschung, Grundlagen und Methoden zur quantitativen und qualitativen Erhebung sowie Analyse von Daten. Der praktische Teil umfasst 7 miteinander verbundene benotete Aufgaben (1 Einzel- und 6 Gruppenaufgaben) in der Versuchsplanung, Durchführung und Datenanalyse. Beide Teile der Veranstaltung finden parallel während des Semesters statt. Am Ende des Kurses werden Sie Ihre erste eigene wissenschaftliche Arbeit durchgeführt haben, von der Ideenfindung über das Forschungsdesign, die Durchführung einer Studie bis hin zur Auswertung und Verschriftlichung sowie Präsentation der Ergebnisse. Es wird keine Abschlussprüfung geben; die Abschlussnote des Kurses berechnet sich als vorlesungsbegleitende Prüfung aus den 7 praktischen Aufgaben, sowie einer Forschungsarbeit und Abschlusspräsentation. In der ersten Vorlesung werden 8 aktuelle HCI Forschungsrichtungen vorgestellt, welche viele spannende Themen wie Augmented und Virtual Reality, Fabrication, maschinelles Lernen und vieles mehr abdecken. In dieser Vorlesung finden Sie sich zu Dreiergruppen zusammen, welche im Laufe des Semesters gemeinsam ein Projekt in einem dieser Forschungsfelder bearbeiten. Dieser Kurs ist auf 24 Plätze begrenzt und eine vorherige Anmeldung für den Kurs ist erforderlich. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324800545,-N391244324826546,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1118",
+            "name": "Mensch- und Identitätsfokussiertes Maschinelles Lernen",
+            "lecturer": "Naser Damer",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325223592,-N391244325216593,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1135",
+            "name": "Kontinuierliches Maschinelles Lernen",
+            "lecturer": "Dr. rer. nat. Martin Mundt",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325162572,-N391244325159573,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1180",
+            "name": "3D Scanning & Motion Capture",
+            "lecturer": "Prof. Dr.-Ing. Justus Thies",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327511859,-N391244327520860,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1191",
+            "name": "Explainable Artificial Intelligence for Computer Vision",
+            "lecturer": "Dr. Simone Schaub-Meyer",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327496845,-N391244327444846,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1193",
+            "name": "Multimodal Artificial Intelligence",
+            "lecturer": "Prof. Dr.-Ing. Anna Rohrbach; Prof. Dr.-Ing. Marcus Rohrbach",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327567850,-N391244327518851,-N0,-N0,-N0",
+            "fields": [
+                "Visual & Interactive Computing"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0052",
+            "name": "Data Mining und Maschinelles Lernen",
+            "lecturer": "Prof. Dr. rer. nat. Kristian Kersting",
+            "description": "Lehrinhalte : Dieser Kurs soll ein Grundverständnis zum Data Mining und Maschinellen Lernen vermitteln. Ausgehend von einer kurzen Geschichte der KI und einer Klärung, wie Data Mining/Maschinelles Lernen und KI zu einander stehen, werden die grundlegenden Lernaufgaben (Klassifikation, Regression, Clusteranalyse) und -settings (überwacht, unüberwacht, verstärkend) sowie Assoziationsregeln vorgestellt. Weiterhin werden verschiedene Modelltypen des maschinellen Lernens behandelt; von linearen Modellen, Baum-basierten Verfahren, Support-Vektor-Maschinen bis hin zu tiefen neuronalen Netzen. Ein weiterer Fokus wird darauf gelegt, wie diese Modelle evaluiert, in einem Ensemble kombiniert und die Wahl für eine Modell-Entscheidung begründet werden kann. In der Übung wird der Stoff anhand von praktischen Aufgaben in Python vertieft. Theoretische Übungsaufgaben, die unter anderem auf die Annahmen und Limitierungen der Modelltypen abzielen, ergänzen dabei die Programmieraufgaben. Themenübersicht : Überblick zum Maschinellen Lernen Datenanalyse-Zyklus (CRISP) K-nächste-Nachbarn  (k-nearest neighbors) Kreuzvalidierung  (cross validation) Überanpassung  (overfitting) Bias-Varianz Tradeoff Klassifikation Regression Lineare Modelle Modell-Selektion und Evaluierung Baumbasierte Verfahren (decision trees) Ensemble Methoden (Bagging & Boosting) Naive Bayes Bayes'sche Netzwerke Support Vector Machines K-Means Deep Learning Multi-Layer Perceptron Convolutional Neural Networks Assoziationsregeln ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324208492,-N391244324240493,-N0,-N0,-N0",
+            "fields": [
+                "Web, Wissens- und Informationsverarbeitung"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0947",
+            "name": "Deep Learning für Natural Language Processing",
+            "lecturer": "Prof. Dr. phil. Iryna Gurevych",
+            "description": "Lehrinhalte : All you need to know about contemporary natural langauge processing (NLP) using deep learning. More about foundations, less about particular frameworks or implementations. Content: - Deep learning foundations (learning from data, learning problem formalization, loss functions, training with backpropagation, evaluation) - NLP as supervised task learning - Language representation (word embeddings, multi-lingual embeddings) - Prominent architectures (convoluational neural networks, recurrent neural networks) - Contemporary architectures and foundational models (transformers and BERT) - Applications (text classification, text generation, translation) ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324311495,-N391244324369496,-N0,-N0,-N0",
+            "fields": [
+                "Web, Wissens- und Informationsverarbeitung"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1034",
+            "name": "Deep Learning: Architectures & Methods",
+            "lecturer": "Prof. Dr. rer. nat. Kristian Kersting; M.Sc. Wolfgang Stammer",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324393498,-N391244324314499,-N0,-N0,-N0",
+            "fields": [
+                "Web, Wissens- und Informationsverarbeitung"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1039",
+            "name": "Advanced Data Management Systems",
+            "lecturer": "Prof. Dr. rer. nat. Carsten Binnig; Prof. Ph.D. Zsolt Istvan",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323928457,-N391244323924458,-N0,-N0,-N0",
+            "fields": [
+                "Web, Wissens- und Informationsverarbeitung"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1061",
+            "name": "Ethik in Natürlicher Sprachverarbeitung",
+            "lecturer": "Prof. Dr. phil. Iryna Gurevych",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324433509,-N391244324408510,-N0,-N0,-N0",
+            "fields": [
+                "Web, Wissens- und Informationsverarbeitung"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1176",
+            "name": "Technologietransfer und Unternehmertum mit Schwerpunkt auf Künstliche Intelligenz",
+            "lecturer": "Prof. Dr. rer. nat. Dominik Michels",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326940778,-N391244326920779,-N0,-N0,-N0",
+            "fields": [
+                "Web, Wissens- und Informationsverarbeitung"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-2090",
+            "name": "Seminar Multimedia Kommunikation II",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann; M.Sc. Konrad Viktor Altenhofen; Dr. Ing. Julian Zobel",
+            "description": "Lehrinhalte : Das Seminar befasst sich mit aktuellen und aufkommenden Themen im Bereich multimedialer Kommunikationssysteme, welche als relevant für die zukünftige Entwicklung des Internets sowie der Informationstechnologie im Allgemeinen erachtet werden. Hierzu erfolgt nach einer ausführlichen Literaturarbeit die Zusammenfassung sowie die Präsentation von ausgewählten, hochwertigen Arbeiten und Trends aus aktuellen Top-Zeitschriften, -Magazinen und -Konferenzen im Themenfeld Kommunikationsnetze und Multimedia-Anwendungen. Die Auswahl der Themen ist semesterspezifisch und korrespondiert dabei mit den Arbeitsfeldern der wissenschaftlichen Mitarbeiter*innen am Fachgebiet. Mögliche Themen sind: Self-organizing Systems & Overlay Communication Mobile Systems & Sensor Networking Infrastrukturnetze zur Mobilkommunikation, Access Networks Service-oriented Computing Multimedia Technologies AI-based Network Security & Routing Die jeweiligen Themen werden in der Kickoff-Veranstaltung am ersten Termin vorgestellt und danach in Moodle publiziert. Die weiteren Termine werden mit den Betreuer*innen individuell abgestimmt und folgen nicht dem in Tucan angegebenen Schema. Der erfolgreiche Abschluss des Seminars beinhaltet sowohl die Abgabe einer schriftlichen Ausarbeitung als auch die mündliche Präsentation der Ergebnisse im Rahmen eines verpflichtenden Abschlusskolloquiums mit allen teilnehmenden Studierenden. Weitere Informationen sind auf der KOM-Website zu finden: https://www.kom.tu-darmstadt.de/seminars ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391343559402229,-N391343559480230,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-2300",
+            "name": "Seminar Multimedia Kommunikation I",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann; M.Sc. Konrad Viktor Altenhofen; Dr. Ing. Julian Zobel",
+            "description": "Lehrinhalte : Das Seminar befasst sich mit aktuellen und aufkommenden Themen im Bereich multimedialer Kommunikationssysteme, welche als relevant für die zukünftige Entwicklung des Internets sowie der Informationstechnologie im Allgemeinen erachtet werden. Hierzu erfolgt nach einer ausführlichen Literaturarbeit die Zusammenfassung sowie die Präsentation von ausgewählten, hochwertigen Arbeiten und Trends aus aktuellen Top-Zeitschriften, -Magazinen und -Konferenzen im Themenfeld Kommunikationsnetze und Multimedia-Anwendungen. Die Auswahl der Themen ist semesterspezifisch und korrespondiert dabei mit den Arbeitsfeldern der wissenschaftlichen Mitarbeiter*innen am Fachgebiet. Mögliche Themen sind: Self-organizing Systems & Overlay Communication Mobile Systems & Sensor Networking Infrastrukturnetze zur Mobilkommunikation, Access Networks Service-oriented Computing Multimedia Technologies AI-based network security & routing Die jeweiligen Themen werden in der Kickoff-Veranstaltung am ersten Termin vorgestellt und danach in Moodle publiziert. Die weiteren Termine werden mit den Betreuer*innen individuell abgestimmt und folgen nicht dem in Tucan angegebenen Schema. Der erfolgreiche Abschluss des Seminars beinhaltet sowohl die Abgabe einer schriftlichen Ausarbeitung als auch die mündliche Präsentation der Ergebnisse im Rahmen eines verpflichtenden Abschlusskolloquiums mit allen teilnehmenden Studierenden. Weitere Informationen sind auf der KOM-Website zu finden: https://www.kom.tu-darmstadt.de/seminars ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391343515060175,-N391343515005176,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-su-2080",
+            "name": "Seminar Softwaresystemtechnologie",
+            "lecturer": "Prof. Dr. rer. nat. Andreas Schürr",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275747520626,-N391275747510627,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0130",
+            "name": "Seminar Telekooperation",
+            "lecturer": "Prof. Dr. rer. nat. Eberhard Max Mühlhäuser",
+            "description": "Lehrinhalte : Das Seminar Telekooperation setzt sich aus der strukturierten Arbeit an wissenschaftlichen Veröffentlichungen auseinander. Das Seminar kann in diesem Semester nur mit voriger Absprache mit einem TK-Mitarbeiter belegt werden. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326760754,-N391244326705755,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0182",
+            "name": "Design und Implementierung moderner Programmiersprachen",
+            "lecturer": "Prof. Dr.-Ing. Ermira Mezini",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323274396,-N391244323280397,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0216",
+            "name": "3D Animation & Visualisierung",
+            "lecturer": "Dipl.-Inform. Martin Knuth; Prof. Dr.-Ing. Jörn Kohlhammer",
+            "description": "Lehrinhalte : Im Mittelpunkt dieses Seminars stehen aktuelle Arbeiten aus den Themenbereichen physikalisch basierte Simulation, Animation, Echtzeitrendering und Visualisierung. - eigenständiges Einarbeiten in ein Thema anhand von bereitgestellten wissenschaftlichen Arbeiten (i.d.R. englischsprachig) - Interpretation und Einordnen der Ergebnisse der Literaturarbeit - Erstellen einer textuellen Zusammenfassung und eines Vortrags über die Thematik - Präsentation vor einem Publikum mit heterogenem Vorwissen + Fachdiskussion ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323993454,-N391244323913455,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0268",
+            "name": "Visual Analytics: Interaktive Visualisierung sehr großer Datenmengen",
+            "lecturer": "Prof. Dr.-Ing. Jörn Kohlhammer; Dr.-Ing. Thorsten May",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327110796,-N391244327117797,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0322",
+            "name": "Simulation, Systemoptimierung und Robotik",
+            "lecturer": "Prof. Dr. rer. nat. Oskar von Stryk",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326800764,-N391244326875765,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0328",
+            "name": "Serious Games Seminar",
+            "lecturer": "PD Dr.-Ing. Stefan Peter Göbel",
+            "description": "Lehrinhalte : In dem Seminar wird der aktuelle Stand der Forschung bezüglich des Einsatzes von (Game) Technologie, Methoden und Konzepten als Grundlage für die Entwicklung von Serious Games (beispielsweise für Bildung, Gesundheit und Sport) analysiert und diskutiert. Zu Beginn des Semesters werden die möglichen Themen kurz vorgestellt und die Studenten können dann ein Thema (zur Einzelbearbeitung) auswählen. Im Laufe des Semesters wird ein Review organisiert, in dem die Teilnehmer einander Feedback zum aktuellen Stand der Ausarbeitung geben. Begleitend finden regelmäßige Treffen mit dem jeweiligen Betreuer statt. Am Ende des Semesters werden die Ergebnisse dann zu einem Blocktermin der gesamten Seminargruppe präsentiert (~ 10 Minuten Vortrag + 5 Minuten Fragen); zusätzlich werden die Ergebnisse in einer Ausarbeitung (ca. 20 Seiten) zusammengefasst. Die Themen haben jeweils Bezug zur aktuell laufenden Forschung des Fachgebiets, teilweise in Kooperation mit Partnern aus der Games Industrie und/oder Serious Games Anwendern, und stammen aus den Bereichen: Digital Storytelling, Adventure Games und Story-basierte Edutainment Anwendungen Authoring und Erstellung von (Multiplayer) Serious Games Game Mastering und Collaborative Gaming Social Serious Games User Generated Content Exergames, Games for Health und Sensoren Mobile Gaming, Location-based Gaming und Urban Health Games Evaluation und Messung von Effekten ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327379829,-N391244327364830,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0454",
+            "name": "Oberseminar Telekooperation",
+            "lecturer": "Prof. Dr. rer. nat. Eberhard Max Mühlhäuser",
+            "description": "Lehrinhalte : Net Centric Systems ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325417608,-N391244325481609,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0469",
+            "name": "Skalenraum- und PDE-Methoden in der Bildanalyse und -verarbeitung",
+            "lecturer": "Prof. Dr. Arjan Kuijper",
+            "description": "Lehrinhalte : Bildanalyse und -verarbeitung beschäftigen sich mit der Untersuchung von Bildern und der Anwendung bestimmer Aufgaben auf Bilder, wie Verbesserung, Rauschunterdrückung, Schärfung und Segmentierung. In diesem Kurs werden häufig verwendete mathematische Methoden vorgestellt und diskutiert. Der Schwerpunkt liegt dabei auf der axiomatischen Modellwahl, deren mathematischen Eigenschaften und dem praktischen Nutzen. Stichwörter: - Filterung (Kantenerkennung, Verbesserung, Wiener, Fourier, ...) - Bilder & Beobachtungen: Skalenraum, Regularisierung, Distributionen - Objekte: Differenzstruktur, Invarianten, Feature-Erkennung - Tiefenstruktur: Katastrophen und Multi-Skalen-Hierarchie - Variationsmethoden und Partielle Differentialmethoden: Perona-Malik, anisotrope Diffusion, Total Variation, Mumford-Shah, Chan-Vese, geometrische partielle Differentialgleichungen, Level-Sets. - Kurvenevolution: Normalenbewegung, mittlere Krümmungsbewegung, euklidische Verkürzungsbewegung. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326869767,-N391244326895768,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0508",
+            "name": "Oberseminar MAIS",
+            "lecturer": "Prof. Dr.-Ing. Heiko Mantel",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325489606,-N391244325481607,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0518",
+            "name": "Algorithmen zum Graphendesign",
+            "lecturer": "PD Elias Dahlhaus",
+            "description": "Lehrinhalte : - Algorithmen zur Einbettung von Graphen in die Ebene - Mathematische Formalisierung ästhetischer Zeichenkriterien - VLSI Design - Algorithmen und NP-Vollständigkeitsresultate bezügl. Einbettungen von Graphen in die Ebene mit Nebenbedingungen ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324088463,-N391244324079464,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0549",
+            "name": "Forschungsseminar zu Netzen, Sicherheit, Mobilität und Drahtloser Kommunikation",
+            "lecturer": "M.Sc. David Noel Breuer; Prof. Dr.-Ing. Matthias Hollick",
+            "description": "Lehrinhalte : Das Forschungsseminar zu Netzen, Sicherheit, Mobilität und Drahtloser Kommunikation erarbeitet aktuelle Fragstellungen, die als hoch-relevant für die zukünftige Entwicklung der genannten Themenfelder eingeschätzt werden. Es umfasst - unter Anleitung - das Studium, die kritische Analyse und Diskussion, das Zusammenfassen und die Präsentation ausgewählter erstklassiger Forschungsbeiträge. Ein Einblick in wissenschaftliche Arbeitsweise wird vermittelt. Ein Kurzreferat und ein abschließendes Referat sowie eine schriftliche Ausarbeitung werden erstellt. Die Themen des Forschungsseminars speisen sich aus den aktuellen Forschungsthemen der Arbeitsgruppe SEEMOO. Die angebotenen Themen werden in der Kick-Off Veranstaltung vorgestellt und im Anschluss nach Präferenzen vergeben. Weitere Details werden im Moodle Kurs bekanntgegeben. Lernziele: - Eigenständiges Einarbeiten in ein Thema auf dem Gebiet Kommunikationsnetze, Sicherheit, Mobilität und Drahtloser Kommunikation (i.d.R. englischsprachig) - Eigene darüber hinausgehende Literaturrecherchen - Interpretation und Einordnen der Ergebnisse der Literaturarbeit - Erstellen eines einführenden und eines vertiefenden Vortrags über die Thematik einschließlich Folienpräsentationen - Halten der beiden Vorträge vor einem Publikum mit heterogenem Vorwissen - Fachdiskussion nach jedem Vortrag - Feedback an die Vortragenden zu den Vorträgen (u.a. betreffend Rhetorik, Präsentationstechniken) und zur Fachdiskussion - Kennen des wissenschaftlichen Arbeitsprozesses und Publikationsprozesses ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324692532,-N391244324686533,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0582",
+            "name": "Seminar zu Netzen, Sicherheit, Mobilität und Drahtloser Kommunikation",
+            "lecturer": "M.Sc. David Noel Breuer; Prof. Dr.-Ing. Matthias Hollick",
+            "description": "Lehrinhalte : Das Seminar zu Netzen, Sicherheit, Mobilität und Drahtloser Kommunikation erarbeitet aktuelle Fragestellungen auf den genannten Gebieten. Es umfasst es das Studium, die kritische Analyse und Diskussion, das Zusammenfassen und die Präsentation ausgewählter Forschungsbeiträge unter Anleitung. Ein Kurzreferat und ein abschließendes Referat sowie eine schriftliche Ausarbeitung werden erstellt. Die Themen des Seminars speisen sich aus den aktuellen Forschungsthemen der Arbeitsgruppe SEEMOO. Die angebotenen Themen werden in der Kick-Off Veranstaltung vorgestellt und im Anschluss nach Präferenzen vergeben. Weitere Details werden im Moodle Kurs bekanntgegeben. Lernziele: - Eigenständiges Einarbeiten in ein Thema auf dem Gebiet Kommunikationsnetze, Sicherheit, Mobilität und Drahtloser Kommunikation (i.d.R. englischsprachig) - Darüber hinausgehende Literaturrecherchen, angeleitet von Betreuer - Interpretation und Einordnen der Ergebnisse der Literaturarbeit, angeleitet von Betreuer - Erstellen eines einführenden und eines vertiefenden Vortrags über die Thematik einschließlich Folienpräsentationen, angeleitet von Betreuer - Halten der beiden Vorträge vor einem Publikum mit heterogenem Vorwissen - Fachdiskussion nach jedem Vortrag - Feedback an die Vortragenden zu den Vorträgen (u.a. betreffend Rhetorik, Präsentationstechniken) und zur Fachdiskussion ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326893760,-N391244326887761,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0652",
+            "name": "System und Hardware Sicherheit",
+            "lecturer": "Prof. Dr.-Ing. Ahmad-Reza Sadeghi",
+            "description": "Lehrinhalte : In diesem Seminar werden verschiedene Sicherheitsaspekte von Künstlicher Intelligenz, Systemen und Embedded Devices analysiert und diskutiert. Die Studenten werden eine Anzahl aktueller wissenschaftlicher Publikationen zu einem bestimmten Thema in Form einer Seminararbeit zusammenfassen, vergleichen und bewerten. Zusätzlich wird jeder Teilnehmer am Ende des Semsters seine Seminararbeit vorstellen. Mögliche Themen sind unter anderem: Sicherheitsmodelle von aktuellen mobilen Betriebssystemen (z.B. Android, iOS, Windows Phone, MeeGo, Symbian, RIM) Sicherheit von Mobilgeräten Kernel Sicherheit Internet of Things (IoT) Applikationssicherheit (z.B. mobile Malware und Laufzeitangriffe) Datenschutz-relevante Aspekte von mobilen Endgeräten Sicherheit von mobilen Netzwerken Anwendungen des Machinellen Lernens in der IT Sicherheit Privacy Aspekte von Deep Neural Networks Angriffe und Verteidigungen gegen Deep Neural Networks Verteiltes Machinelles Lernen ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106246163204,-N393106246136205,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0662",
+            "name": "Kryptographie und Komplexitätstheorie",
+            "lecturer": "Prof. Dr. phil. nat. Marc Fischlin",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325146575,-N391244325155576,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0702",
+            "name": "Symbolische Ausführung",
+            "lecturer": "Prof. Dr. rer. nat. Reiner Hähnle; Dr. rer. nat. Richard Bubel",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N389043269698095,-N389043269646096,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0724",
+            "name": "Angewandte Themen der Computergraphik",
+            "lecturer": "Prof. Dr.-Ing. André Stork",
+            "description": "Lehrinhalte : Ausgewählte aktuelle Arbeiten aus Forschung und Literatur werden zur Bearbeitung ausgegeben. Die Arbeiten stammen aus folgenden Feldern der Computergraphik: - Visualisierung / Rendering - Simulation - Geometrieverarbeitung und Modellierung - Semantik und 3D ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324004470,-N391244324082471,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0776",
+            "name": "Software Engineering mit formalen Methoden (Oberseminar)",
+            "lecturer": "Prof. Dr. rer. nat. Reiner Hähnle",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N388673439538282,-N388673439567283,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0807",
+            "name": "Privatheit & Anonymität in einer vernetzten Welt",
+            "lecturer": "Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326235693,-N391244326237694,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0923",
+            "name": "UKP Oberseminar",
+            "lecturer": "Prof. Dr. phil. Iryna Gurevych",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327151792,-N391244327190793,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0961",
+            "name": "Zivile Sicherheit",
+            "lecturer": "Honorarprof. Dr.-Ing. Martin Steinebach",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327123801,-N391244327191802,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0963",
+            "name": "IT in der Grundlehre",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325086561,-N391244325025562,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0994",
+            "name": "Parallel Computing",
+            "lecturer": "M.Sc. Marcus Ritter; Prof. Dr. rer. nat. Felix Wolf",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392333121573564,-N392333121553565,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1012",
+            "name": "Angewandte Kryptographie",
+            "lecturer": "Prof. Ph.D. Sebastian Faust",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323398400,-N391244323347401,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1015",
+            "name": "ML Oberseminar",
+            "lecturer": "Prof. Dr. rer. nat. Kristian Kersting",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325342595,-N391244325350596,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1021",
+            "name": "Kolloquium Wissenschaft und Technik für Frieden und Sicherheit",
+            "lecturer": "Prof. Dr. Dr. Christian Reuter",
+            "description": "Lehrinhalte : Das Kolloquium dient der Begleitung sowohl aktueller Bachelor- und Masterarbeiten als auch Dissertationen und Forschungsvorhaben des Lehrstuhls Wissenschaft und Technik für Frieden und Sicherheit (PEASEC). Das Kolloquium beinhaltet insbesondere die Vorstellung laufender oder gerade abgeschlossener Arbeiten und deren Diskussion mit einem Fachpublikum sowohl aus Mitarbeiter*innen des Lehrstuhls als auch Studierenden, insb. aktuellen Bachelor- und Master-Kandidat*innen oder -Interessent*innen. Weiterhin können Methoden, Theorien sowie aktuelle wissenschaftliche Entwicklungen hier besprochen werden. Studierenden wird empfohlen von der Themenfindung bis zur Abschlusspräsentation aktiv an dieser Veranstaltung teilzunehmen. Informationen über Bachelor- und Masterarbeiten finden Sie hier: www.thesis.peasec.de ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325142570,-N391244325150571,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1033",
+            "name": "Oberseminar ENCRYPTO",
+            "lecturer": "Prof. Dr.-Ing. Thomas Schneider",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325302604,-N391244325379605,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1038",
+            "name": "Performance Engineering",
+            "lecturer": "Prof. Dr. Christian Bischof",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325410612,-N391244325418613,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1103",
+            "name": "Seminar Kryptographie",
+            "lecturer": "Prof. Dr. phil. nat. Marc Fischlin",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392823872624291,-N392823872618292,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1129",
+            "name": "Theoretische Neurowissenschaft",
+            "lecturer": "Dr. rer. nat. Markus Butz-Ostendorf; M.Sc. Marvin Rene Kaster",
+            "description": "Lehrinhalte : Gegenstand des Seminars ist die Vermittlung von Methoden der Modellbildung für die Neurowissenschaften. Die Funktionssysteme des Nervensystems einschließlich dem Gehirn gehören zu den komplexesten Wirkungsgefüge, die wir in der Natur beobachten können. Darüber hinaus sind biologische neuronale Netzwerke kognitive Systeme, die allein deswegen von besonderem Interesse für die Informatik sind. Die Modellbildung neuronaler Systeme lässt sich gut auf andere nicht-biologische Systeme anwenden (z.B. autonome Systeme, Verkehrsnetzwerke, Logistik) und dienen daher als geeigneter Use Case, um entsprechende Methodenkompetenz zu entwickeln. Im Seminar werden wir uns mit beobachtbaren und simulierbaren nicht-linearen Dynamiken beschäftigen, die im Nervensystem auf unterschiedlichen Zeitachsen miteinander reziprok gekoppelt sind, wie zum Beispiel neuronale elektrische Aktivitäten und aktivitätsabhängige plastische Prozesse, die auf einer anderen Zeitachse wiederum den Aktivitätsfluss verändern. Anhand von Originalpublikation werden informatische und mathematische Methoden vermittelt, um solche Prozesse und Systeme zu modellieren. An verschiedenen neuronalen Funktionssystemen wie z.B. dem visuellen oder dem hippokampalen Funktionssystem zur Gedächtnisbildung werden die o.g. Modelle entwickelt. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327481836,-N391244327417837,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1139",
+            "name": "Künstliche Intelligenz für Coding Assistance",
+            "lecturer": "Prof. Dr.-Ing. Ermira Mezini; Dr. rer. nat. Krishna Narasimhan Murali",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325172579,-N391244325177580,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1140",
+            "name": "Oberseminar Scientific Computing",
+            "lecturer": "Prof. Dr. Christian Bischof",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325386602,-N391244325301603,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1168",
+            "name": "Intelligente Robotermanipulation: Part II",
+            "lecturer": "Prof. Ph.D. Georgia Chalvatzaki",
+            "description": "Lehrinhalte : Dieses Seminar für Fortgeschrittene stellt grundlegende Algorithmen für Robotic Embodied AI Systems (REAIS) vor, die Objekte in unstrukturierten Umgebungen wie Wohnungen, Restaurants, Supermärkten usw. autonom wahrnehmen, navigieren und manipulieren können. Es befasst sich mit der komplexen und aktuellen Herausforderung, intelligente Roboteragenten zu verstehen und zu entwickeln, die interagieren und ihre Welt verändern können. Das Seminar wird grundlegende Probleme der verkörperten KI und Robotik erörtern und dabei die multimodale Wahrnehmung mit dem Handeln verbinden. Das Seminar wird eine Einführungsvorlesung und eine Lesegruppe kombinieren, um fortgeschrittene algorithmische Ansätze in der Robotik und der verkörperten KI zu diskutieren und zu erlernen. In diesem Semester lautet das Thema des Seminars \"Interaktive Roboter Wahrnehmen und Lernen\". Eine vorläufige Liste der Referate umfasst: Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations  https://arxiv.org/abs/2104.01542 Learning Agent-Aware Affordances for Closed-Loop Interaction with Articulated Objects https://arxiv.org/abs/2209.05802 Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models  https://arxiv.org/abs/2207.11514 The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control  https://arxiv.org/abs/2203.03580 R3M: A Universal Visual Representation for Robot Manipulation  https://arxiv.org/abs/2203.12601 Real-World Robot Learning with Masked Visual Pre-training  https://arxiv.org/abs/2210.03109 Offline Visual Representation Learning for Embodied Navigation  https://arxiv.org/abs/2204.13226 The Surprising Effectiveness of Representation Learning for Visual Imitation  https://arxiv.org/abs/2112.01511 VideoDex: Learning Dexterity from Internet Videos https://arxiv.org/abs/2212.04498 Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  https://arxiv.org/abs/2204.01691 CLIPort: What and Where Pathways for Robotic Manipulation  https://arxiv.org/abs/2109.12098 VIMA: General Robot Manipulation with Multimodal Prompts  https://arxiv.org/abs/2210.03094 GATO: A Generalist Agent https://arxiv.org/abs/2205.06175 PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training  https://arxiv.org/abs/2209.11133 Learning Universal Policies via Text-Guided Video Generation  https://arxiv.org/abs/2302.00111 ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325062559,-N391244325034560,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1172",
+            "name": "Large Language Models",
+            "lecturer": "Prof. Dr. phil. Iryna Gurevych",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325210583,-N391244325294584,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1173",
+            "name": "Language-Based Security For Distributed Systems",
+            "lecturer": "Prof. Dr.-Ing. Heiko Mantel",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325285581,-N391244325249582,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1177",
+            "name": "Seminar in Networked Embedded Systems",
+            "lecturer": "Prof. Dr. Marco Zimmerling",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326852758,-N391244326867759,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1194",
+            "name": "Advanced Topics in Multimodal AI",
+            "lecturer": "Prof. Dr.-Ing. Anna Rohrbach",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327512853,-N391244327597854,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1205",
+            "name": "Implementation Security",
+            "lecturer": "Prof. Dr. Amir Moradi",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393135809664259,-N393135809613260,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1210",
+            "name": "Ausgewählte Themen KI-gestützter Sicherheit in der Praxis",
+            "lecturer": "Dr. Oren Halvani; Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392672975376618,-N392672975308619,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1220",
+            "name": "Berücksichtigung datenschutz- und cybersicherheitsrechtlicher Anforderungen im Implementierungsprozess",
+            "lecturer": "Dr. Annika Selzer; Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393085479000244,-N393085479026245,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1227",
+            "name": "(Gender) Diversity in Software Development",
+            "lecturer": "Prof. Dr. rer. nat. Isabella Graßl",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393286080841725,-N393286080822726,-N0,-N0,-N0",
+            "fields": [
+                "Seminare"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0187",
+            "name": "Praktikum in der Lehre - Funktionale und objektorientierte Programmierkonzepte",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "Lehrinhalte : Lernziele: Es sollen Fähigkeiten erlernt werden, geeignete Lernmaterialien für Schulungen in Informatikthemen selbst zu erstellen, ihren Einsatz kritisch zu begleiten und dabei auch die Lernenden zu betreuen und anzuleiten. Stoffplan: _ ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325635632,-N391244325662633,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0289",
+            "name": "Praktikum in der Lehre - Algorithmen und Datenstrukturen",
+            "lecturer": "Prof. Ph.D. Zsolt Istvan; Prof. Ph. D. Stefan Roth",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325578628,-N391244325536629,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0333",
+            "name": "Praktikum in der Lehre - Allgemeine Informatik I",
+            "lecturer": "Prof. Dr. Christian Bischof",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325664630,-N391244325663631,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0443",
+            "name": "Praktikum in der Lehre - Softwaretechnik",
+            "lecturer": "Prof. Dr.-Ing. Ermira Mezini",
+            "description": "Lehrinhalte : Software Engineering ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325763649,-N391244325760650,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0954",
+            "name": "Praktikum in der Lehre - Graphische Datenverarbeitung II",
+            "lecturer": "Prof. Dr. techn. Wolf Dietrich Fellner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325798646,-N391244325747647,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0957",
+            "name": "Praktikum in der Lehre - Internetsicherheit und Sicherheit in Mobilen Netzen",
+            "lecturer": "Prof. Dr.-Ing. Matthias Hollick",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325831651,-N391244325880652,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0962",
+            "name": "Praktikum in der Lehre - Computernetzwerke und verteilte Systeme",
+            "lecturer": "Prof. Dr.-Ing. Matthias Hollick; Vincenz Julius Mechler; M.Sc. Davide Toldo",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325664638,-N391244325662639,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0965",
+            "name": "Praktikum in der Lehre - Rechnerorganisation",
+            "lecturer": "Prof. Dr.-Ing. Andreas Koch",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325930667,-N391244325954668,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0970",
+            "name": "Praktikum in der Lehre - IT in der Grundlehre",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325944669,-N391244325978670,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0971",
+            "name": "Praktikum in der Lehre - Computational Engineering und Robotik",
+            "lecturer": "Prof. Ph. D. Jan Peters",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325740644,-N391244325770645,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1040",
+            "name": "Praktikum in der Lehre - Data Management",
+            "lecturer": "Prof. Dr. rer. nat. Carsten Binnig; Prof. Ph.D. Zsolt Istvan",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325780642,-N391244325765643,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1044",
+            "name": "Praktikum in der Lehre - Deep Learning for Natural Language Processing",
+            "lecturer": "Prof. Dr. phil. Iryna Gurevych",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325658634,-N391244325652635,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1060",
+            "name": "Praktikum in der Lehre - Echtzeitsysteme",
+            "lecturer": "Prof. Dr. rer. nat. Andreas Schürr",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325616636,-N391244325679637,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1070",
+            "name": "Praktikum in der Lehre - Statistisches Maschinelles Lernen",
+            "lecturer": "Prof. Dr.-Ing. Marcus Rohrbach; Dr. Simone Schaub-Meyer",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325865653,-N391244325864654,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1100",
+            "name": "Praktikum in der Lehre - System Security",
+            "lecturer": "Prof. Dr.-Ing. Ahmad-Reza Sadeghi",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325835657,-N391244325836658,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1111",
+            "name": "Praktikum in der Lehre - Technische Informatik",
+            "lecturer": "Prof. Dr.-Ing. Andreas Koch",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325887655,-N391244325877656,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1133",
+            "name": "Praktikum in der Lehre - Kommunikationsnetze I",
+            "lecturer": "Prof. Dr.-Ing. Ralf Steinmetz",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325963665,-N391244325960666,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1134",
+            "name": "Praktikum in der Lehre - Kommunikationsnetze II",
+            "lecturer": "Prof. Dr.-Ing. Ralf Steinmetz",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325868661,-N391244325870662,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1169",
+            "name": "Praktikum in der Lehre: Reinforcement Learning",
+            "lecturer": "Prof. Ph.D. Georgia Chalvatzaki",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325922663,-N391244325964664,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1171",
+            "name": "Praktikum in der Lehre: Intelligent Robotermanipulation",
+            "lecturer": "Prof. Ph.D. Georgia Chalvatzaki",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325987671,-N391244325927672,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1175",
+            "name": "Praktikum in der Lehre – Informatik, Frieden, Sicherheit",
+            "lecturer": "Prof. Dr. Dr. Christian Reuter",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325948673,-N391244325909674,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1217",
+            "name": "KI-Startup: Von der Idee zur Umsetzung",
+            "lecturer": "Prof. Dr. rer. pol. Peter Buxmann; Dipl-Wi.-Inform Nihal Wahl-Islam",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393064047841545,-N393064047872546,-N0,-N0,-N0",
+            "fields": [
+                "Praktika in der Lehre"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-de-2060",
+            "name": "Serious Games Praktikum",
+            "lecturer": "PD Dr.-Ing. Stefan Peter Göbel",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275746797480,-N391275746795481,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-de-2070",
+            "name": "Serious Games Projektseminar",
+            "lecturer": "PD Dr.-Ing. Stefan Peter Göbel",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275752484377,-N391275752472378,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-fi-1040",
+            "name": "C/C++ Programmierpraktikum",
+            "lecturer": "Prof. Dr.-Ing. Rolf Findeisen; Dr. Ing. Eric Lenz",
+            "description": "Lehrinhalte : Das Praktikum wird in zwei Abschnitte unterteilt. Im ersten Teil des Praktikums werden semesterbegleitend durch praktische Aufgaben und Vorträge die Grundkonzepte der Programmiersprachen C und C++ vermittelt. Sämtliche Aspekte werden durch ausgedehnte praktische Arbeiten im Selbststudium am Rechner vertieft. Hierfür werden alle notwendigen Materialien wie Vortragsfolien, Vortragsaufzeichnungen, Übungen, Musterlösungen der Übungen und Aufzeichnungen der Übungsbesprechungen in rein digitaler Form zum Selbststudium zur Verfügung gestellt. Im zweiten Teil des Praktikums geht es um die Programmierung eines Mikrocontrollers in der Programmiersprache C. Hierfür bekommen die Studierenden für zwei Tage einen Mikrocontroller zur Verfügung gestellt, mit dem sie unter Aufsicht praktische Programmieraufgaben bearbeiten können. Im Rahmen der Lehrveranstaltung werden folgende Themen behandelt: Grundkonzepte der Programmiersprachen C und C++ Speicherverwaltung und Datenstrukturen Objektorientierung in C++ (Mehrfach-)Vererbung, Polymorphie, parametrische Polymorphie (Hardwarenahe) Programmierung von eingebetteten Systemen mit C ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391275742058898,-N391275742002899,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-1020",
+            "name": "Praktikum Multimedia Kommunikation I",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann; M.Sc. Konrad Viktor Altenhofen; Dr. Ing. Julian Zobel",
+            "description": "Lehrinhalte : Der Kurs bearbeitet aktuelle Entwicklungsthemen aus dem Bereich der Multimedia Kommunikationssysteme. Neben einem generellen Überblick wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen sind semesterspezifisch und bestimmen sich aus den konkreten Forschungsgebieten der wissenschaftlichen Mitarbeiter*innen am Fachgebiet. Dabei sollen die Themen technische und einleitende wissenschaftliche Kompetenzen in einem oder mehreren der folgenden Gebiete vermitteln: Netzwerkplanung und Analyse Leistungsbewertung von Netzwerkanwendungen Diskrete Event-basierten Simulation von Netzdiensten Protokolle für Mobile Ad Hoc Networks, Disruption-Tolerant Networks, Wireless Sensor Networks Infrastrukturnetze zur Mobilkommunikation, Access Networks Kontext-abhängige bzw. kontext-bezogene Kommunikation und Dienste Peer-to-Peer Systeme und Architekturen Web Service-Technologien und service-orientierte Architekturen AI-based Network Security & Routing Die jeweiligen Themen werden in der Kickoff-Veranstaltung am ersten Termin vorgestellt und danach in Moodle publiziert. Die weiteren Termine werden mit den Betreuer*innen individuell abgestimmt und folgen nicht dem in Tucan angegebenen Schema. Der erfolgreiche Abschluss des Veranstaltung beinhaltet die Abgabe und die Präsentation eines Posters des eigenen Themas bei einer gemeinsamen verpflichtenden Vorstellungsveranstaltung, die Abgabe einer schriftlichen Ausarbeitung, sowie die mündliche Präsentation der Ergebnisse im Rahmen eines verpflichtenden Abschlusskolloquiums mit allen teilnehmenden Studierenden. Weitere Informationen sind auf der KOM Website zu finden: https://www.kom.tu-darmstadt.de/labs ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391343514907157,-N391343514912158,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-2070",
+            "name": "Praktikum Multimedia Kommunikation II",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann; M.Sc. Konrad Viktor Altenhofen; Dr. Ing. Julian Zobel",
+            "description": "Lehrinhalte : Der Kurs bearbeitet aktuelle Entwicklungsthemen aus dem Bereich der Multimedia Kommunikationssysteme. Neben einem generellen Überblick wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen sind semesterspezifisch und bestimmen sich aus den konkreten Forschungsgebieten der wissenschaftlichen Mitarbeiter*innen am Fachgebiet. Dabei sollen die Themen technische und einleitende wissenschaftliche Kompetenzen in einem oder mehreren der folgenden Gebiete vermitteln: Netzwerkplanung und Analyse Leistungsbewertung von Netzwerkanwendungen Diskrete Event-basierten Simulation von Netzdiensten Protokolle für Mobile Ad Hoc Networks, Disruption-Tolerant Networks, Wireless Sensor Networks Infrastrukturnetze zur Mobilkommunikation, Access Networks Kontext-abhängige bzw. kontext-bezogene Kommunikation und Dienste Peer-to-Peer Systeme und Architekturen Web Service-Technologien und service-orientierte Architekturen AI-based Network Security & Routing Die jeweiligen Themen werden in der Kickoff-Veranstaltung am ersten Termin vorgestellt und danach in Moodle publiziert. Die weiteren Termine werden mit den Betreuer*innen individuell abgestimmt und folgen nicht dem in Tucan angegebenen Schema. Der erfolgreiche Abschluss des Veranstaltung beinhaltet die Abgabe und die Präsentation eines Posters des eigenen Themas bei einer gemeinsamen verpflichtenden Vorstellungsveranstaltung, die Abgabe einer schriftlichen Ausarbeitung, sowie die mündliche Präsentation der Ergebnisse im Rahmen eines verpflichtenden Abschlusskolloquiums mit allen teilnehmenden Studierenden. Weitere Informationen sind auf der KOM Website zu finden: https://www.kom.tu-darmstadt.de/labs ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391343514847138,-N391343514807139,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "18-sm-2130",
+            "name": "Projektpraktikum Multimedia Kommunikation",
+            "lecturer": "Prof. Dr. rer. nat. Björn Scheuermann; M.Sc. Konrad Viktor Altenhofen; Dr. Ing. Julian Zobel",
+            "description": "Lehrinhalte : Der Kurs bearbeitet aktuelle Forschungs- und Entwicklungsthemen aus dem Bereich der Multimedia Kommunikationssysteme. Neben einem generellen Überblick wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen sind semesterspezifisch und bestimmen sich aus den konkreten Forschungsgebieten der wissenschaftlichen Mitarbeiter*innen am Fachgebiet. Dabei sollen die Themen technische und wissenschaftliche Kompetenzen in einem oder mehreren der folgenden Gebiete vermitteln: Netzwerkplanung und Analyse Leistungsbewertung von Netzwerkanwendungen Diskrete Event-basierten Simulation von Netzdiensten Protokolle für Mobile Ad Hoc Networks, Disruption-Tolerant Networks, Wireless Sensor Networks Infrastrukturnetze zur Mobilkommunikation, Access Networks Kontext-abhängige bzw. kontext-bezogene Kommunikation und Dienste Peer-to-Peer Systeme und Architekturen Web Service-Technologien und service-orientierte Architekturen AI-based Network Security & Routing Die jeweiligen Themen werden in der Kickoff-Veranstaltung am ersten Termin vorgestellt und danach in Moodle publiziert. Die weiteren Termine werden mit den Betreuer*innen individuell abgestimmt und folgen nicht dem in Tucan angegebenen Schema. Der erfolgreiche Abschluss des Veranstaltung beinhaltet die Abgabe und die Präsentation eines Posters des eigenen Themas bei einer gemeinsamen verpflichtenden Vorstellungsveranstaltung, die Abgabe einer schriftlichen Ausarbeitung, sowie die mündliche Präsentation der Ergebnisse im Rahmen eines verpflichtenden Abschlusskolloquiums mit allen teilnehmenden Studierenden. Weitere Informationen sind auf der KOM Website zu finden: https://www.kom.tu-darmstadt.de/labs ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391343515231201,-N391343515255202,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0114",
+            "name": "Hacker Contest",
+            "lecturer": "Prof. Dr. phil. nat. Marc Fischlin; Matthias Göhring; M.Sc. Tobias Hamann",
+            "description": "Lehrinhalte : Lernziele: Methodische Untersuchung des Sicherheitszustands von IT-Systemen und Anwendungen zur Identifikation von Schwachstellen inklusive der Bewertung ihrer Kritikalität Praktisches Verständnis für Sicherheitslücken und ihre Auswirkungen Anwendung verbreiteter Techniken und Werkzeuge für technische Sicerheitsanalysen Verantwortungsvoller Umgang mit identifizierten Schwachstellen Einblick ins Berufsbild Penetration Testing und Abgrenzung zu Capture-the-Flag (CTF) Stoffplan: Der Fokus der Veranstaltung besteht in der Analyse von unbekannten IT-Systemen und Anwendungen, um Sicherheitslücken gezielt zu identifizieren und auszunutzen. Analyse- und Exploit-Werkzeuge können dabei in einer kontrollierten Umgebung (PentestLab) erprobt werden. Ergänzend werden zu jedem Veranstaltungstermin Themenbereiche der IT-Sicherheit von den Studierenden im Team vorgestellt. Dabei werden sowohl allgemeine Hintergründe beleuchtet als auch konkrete Methoden und Werkzeuge zur Identifikation, Ausnutzung und Behebung relevanter Schwachstellen praxisnah vorgestellt. Zum Semesterende erhalten die Teilnehmenden die Möglichkeit, das Erlernte anzuwenden, um bisher unbekannte Schwachstellen in Open-Source Software zu identifizieren, einen Vorschlag für die Behebung zu entwickeln und diese Informationen gemäß Best Practices der “Responsible Disclosure” an die Entwickler zu melden. Damit ergibt sich der folgende Aufbau des Praktikums: Vorstellung eines Teilbereichs der praktischen IT-Sicherheit: relevante Schwachstellen, (automatisiertes) Identifizieren und Ausnutzen dieser Schwachstellen, Gegenmaßnahmen Sicherheitsanalysen von IT-Systemen und Anwendungen in einem klassischen Capture-the-Flag (CTF) Aufbau in mehreren Runden Diskussion identifizierter Schwachstellen und ihrer Kritikalität Diskussion und Bewertung von allgemeinen und konkreten Härtungsmaßnahmen Identifikation bisher unbekannter Schwachstellen in einer Open-Source Software Verantwortungsvolle Meldung von Schwachstellen im Rahmen eines “Responsible Disclosure” Prozesses ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324863543,-N391244324886544,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0189",
+            "name": "Praktikum Algorithmen",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "Lehrinhalte : Das Praktikum behandelt die angewandte Softwareentwicklung in den Themenbereichen der Arbeitsgruppe Algorithmik (zum Beispiel im Bereich Mobilität oder Lehre). Ziel ist das eigenständige Bearbeiten eines Entwicklungsprojektes inklusive Evaluation und Dokumentation der erstellten Lösung. Der Vorbesprechungstermin für die Themen in diesem Semester wird auf der Seite des Algorithmik Fachgebiets https://www.algo.informatik.tu-darmstadt.de/ bekanntgegeben. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325595619,-N391244325567620,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0248",
+            "name": "Robotik-Projektpraktikum",
+            "lecturer": "Prof. Dr. rer. nat. Oskar von Stryk",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326603742,-N391244326606743,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0276",
+            "name": "Praktikum Algorithmen II (Vertiefung)",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "Lehrinhalte : Das Praktikum behandelt die angewandte Softwareentwicklung in den Themenbereichen der Arbeitsgruppe Algorithmik (zum Beispiel im Bereich Mobilität oder Lehre). Ziel ist das eigenständige Bearbeiten eines Entwicklungsprojektes inklusive Evaluation und Dokumentation der erstellten Lösung. Der Vorbesprechungstermin für die Themen in diesem Semester wird auf der Seite des Algorithmik Fachgebiets https://www.algo.informatik.tu-darmstadt.de/ bekanntgegeben. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325593621,-N391244325564622,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0306",
+            "name": "Implementierung von Programmiersprachen",
+            "lecturer": "Prof. Dr.-Ing. Ermira Mezini",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324967551,-N391244324993552,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0357",
+            "name": "Integriertes Robotik-Projekt 2",
+            "lecturer": "Prof. Dr. rer. nat. Oskar von Stryk",
+            "description": "Lehrinhalte : - selbständige Bearbeitung einer konkreten Aufgabenstellung aus der Entwicklung und Anwendung moderner Robotersysteme unter Anleitung und (nach Möglichkeit) in einem Team von Entwicklern - Einarbeitung in den relevanten Stand der Forschung und Technik - Erarbeitung eines Lösungsvorschlags und dessen Umsetzung und Implementierung - Anwendung und Evaluierung anhand von Roboterexperimenten oder -simulationen - Dokumentation von Aufgabenstellung, Vorgehensweise, Implementierung und Ergebnissen in einem Abschlussbericht und Durchführung einer Abschlusspräsentation ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324935556,-N391244324912557,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0412",
+            "name": "Praktikum aus Künstlicher Intelligenz",
+            "lecturer": "Prof. Dr. rer. nat. Kristian Kersting",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393273740159231,-N393273740104232,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0418",
+            "name": "Praktikum Visual Computing",
+            "lecturer": "Prof. Dr. techn. Wolf Dietrich Fellner; Prof. Dr.-Ing. Jörn Kohlhammer; Prof. Dr. Arjan Kuijper; Ph.D. Anirban Mukhopadhyay; Prof. Ph. D. Stefan Roth; Prof. Dr.-Ing. André Stork",
+            "description": "Lehrinhalte : Im Rahmen dieses Praktikums werden ausgewählte Themen aus dem Bereich Visual Computing von den Studierenden bearbeitet und am Ende des Praktikums in einem Vortrag vorgestellt. Die konkreten Themen wechseln von Semester zu Semester und sollten direkt mit einem der Lehrenden angesprochen werden. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326016679,-N391244326003680,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0485",
+            "name": "Projektpraktikum Telekooperation",
+            "lecturer": "Prof. Dr. rer. nat. Eberhard Max Mühlhäuser",
+            "description": "Lehrinhalte : Die Teilnehmer entwickeln in Kleingruppen (4-6 Personen) Softwaresysteme und -komponenten im Forschungsfeld des Lehrstuhls Telekooperation. Im Nachfolgenden eine (beispielhafte) Liste möglicher Themen: Novel interactions with AR/VR devices or drones Digital Fabrications Remote Collaboration Smart Street Lamps Personal Assistants Process Mining Labels: Quantified Self App Kraken.me: Tracking suite Big Data Analysis / Data Mining DisVis: Katastrophensimulator (Mobile) Cloud Computing (Mobile) Activity recognition and prediction Social Network Analysis Botnet Surveillance System (BoSS) Botnet Simulation Framework (BSF) Storytelling da_sense: Visualisation of open data Node Based Algorithm Programming Framework (ANISE) Collaborative intrusion detection Cyber Incident Monitoring based on honeypot sensors Twitterize2: Anonymize Twitter HTC: Holon Test Center ... Weitere Forschungsthemen sind auf unserem Webauftritt zu finden: https://www.tk.informatik.tu-darmstadt.de ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326346704,-N391244326331705,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0537",
+            "name": "Fortgeschrittenes Praktikum Visual Computing",
+            "lecturer": "Prof. Dr. techn. Wolf Dietrich Fellner; Prof. Dr.-Ing. Jörn Kohlhammer; Prof. Dr. Arjan Kuijper; Ph.D. Anirban Mukhopadhyay; Prof. Ph. D. Stefan Roth; Prof. Dr.-Ing. André Stork",
+            "description": "Lehrinhalte : Im Rahmen dieses Praktikums werden ausgewählte fortgeschrittene Themen aus dem Bereich Visual Computing von den Studierenden bearbeitet und am Ende des Praktikums in einem Vortrag vorgestellt. Die konkreten Themen wechseln von Semester zu Semester und sollten direkt mit einem der Lehrenden angesprochen werden. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324798536,-N391244324746537,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0552",
+            "name": "Praktikum Sichere Mobile Netze",
+            "lecturer": "M.Sc. David Noel Breuer; Prof. Dr.-Ing. Matthias Hollick",
+            "description": "Lehrinhalte : Das Praktikum Sichere Mobile Netze behandelt die angewandte Softwareentwicklung und Hardware-Software Entwicklung in den Themenbereichen Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation bzw. der Kombination dieser Bereiche. Ziel ist das Lösen einer Problemstellung im Team aus den genannten Bereichen durch Implementierung in Software bzw. Hardware/Software. Die Themen des Praktikums speisen sich aus den aktuellen Forschungsthemen der Arbeitsgruppe SEEMOO. Die angebotenen Themen werden in der Kick-Off Veranstaltung vorgestellt und im Anschluss nach Präferenzen vergeben. Weitere Details werden im Moodle Kurs bekanntgegeben. Lerninhalte: - Lösen einer Fragestellung im Bereich Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation - Rechereche von Lösungsalternativen und Abwägung von Vor-/Nachteilen der Alternativen - Konzipieren einer Softwarearchitektur bzw. kombinierten Hardware-Software Architektur - Entwerfen eines auf die Zielplattform angepassten Hardware-/Softwaredesigns - Prototypische Umsetzung auf der ausgewählten Zielplattform - Evaluation des Gesamtsystems in Bezug auf verschiedene Gütemaße - Dokumentation der erstellten Lösung ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326041675,-N391244326021676,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0553",
+            "name": "Projektpraktikum Sichere Mobile Netze",
+            "lecturer": "M.Sc. David Noel Breuer; Prof. Dr.-Ing. Matthias Hollick",
+            "description": "Lehrinhalte : Das Projektpraktikum Sichere Mobile Netze behandelt die angewandte Softwareentwicklung und Hardware-Software Entwicklung in den Themenbereichen Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation bzw. der Kombination dieser Bereiche. Ziel ist das eigenständige Bearbeiten eines Entwicklungsprojektes im Team. Die Themen des Projektpraktikums speisen sich aus den aktuellen Forschungsthemen der Arbeitsgruppe SEEMOO. Die angebotenen Themen werden in der Kick-Off Veranstaltung vorgestellt und im Anschluss nach Präferenzen vergeben. Weitere Details werden im Moodle Kurs bekanntgegeben. Lerninhalte: - Eigenständiges Bearbeiten eines Entwicklungsprojektes im Bereich Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation - Projektplanung und Projektmanagement - Rechereche von Lösungsalternativen und Abwägung von Vor-/Nachteilen der Alternativen - Konzipieren einer Softwarearchitektur bzw. kombinierten Hardware-Software Architektur - Entwerfen eines auf die Zielplattform angepassten Hardware-/Softwaredesigns - Prototypische Umsetzung auf der ausgewählten Zielplattform - Evaluation des Gesamtsystems in Bezug auf verschiedene Gütemaße - Dokumentation der erstellten Lösung sowie ausführliche Dokumentation des Projektmanagements ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326315698,-N391244326327699,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0603",
+            "name": "Implementierung in Forensik und Mediensicherheit",
+            "lecturer": "Honorarprof. Dr.-Ing. Martin Steinebach",
+            "description": "Lehrinhalte : Praktische Anwendung von Algorithmen in den Bereichen Robuste Hashverfahren, Image Registration, File Forensik, Multimedia Kryptographie, Web Content Retrieval ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324991549,-N391244324910550,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0647",
+            "name": "Praktikum zu Technischer Informatik",
+            "lecturer": "Prof. Dr.-Ing. Andreas Koch",
+            "description": "Lehrinhalte : Teilnehmerinnen und Teilnehmer bearbeiten alleine oder in einer Kleingruppe eigenständig eine individuell gestellte praktische Aufgabe aus dem Bereich der technischen Informatik. Die Aufgaben sind dabei in der Regel Programmier- und/oder Hardware-Entwicklungsarbeiten angelehnt an die aktuellen Forschungen am Fachgebiet für Eingebettete Systeme und ihre Anwendungen. ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326105683,-N391244326109684,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0673",
+            "name": "Software Development Tools",
+            "lecturer": "Prof. Dr.-Ing. Ermira Mezini",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326893770,-N391244326838771,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0753",
+            "name": "Lernende Roboter: Integriertes Projekt - Teil 1",
+            "lecturer": "Prof. Ph. D. Jan Peters",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325273588,-N391244325277589,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0754",
+            "name": "Lernende Roboter: Integriertes Projekt - Teil 2",
+            "lecturer": "Prof. Ph. D. Jan Peters",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325236590,-N391244325213591,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0950",
+            "name": "Forschungsprojekt Telekooperation",
+            "lecturer": "Prof. Dr. rer. nat. Eberhard Max Mühlhäuser",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323356406,-N391244323348407,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-0959",
+            "name": "Embedded System Hands-On 1: Entwurf und Realisierung von Hardware/Software-Systemen",
+            "lecturer": "Prof. Dr.-Ing. Andreas Koch",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324400505,-N391244324475506,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1001",
+            "name": "Fortgeschrittene Themen in Eingebetteten Systemen und ihren Anwendungen",
+            "lecturer": "Prof. Dr.-Ing. Andreas Koch",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323416410,-N391244323478411,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1008",
+            "name": "Parallele Programmiertechnologie",
+            "lecturer": "Arya Mazaheri; Prof. Dr. rer. nat. Felix Wolf",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392333290627657,-N392333290672658,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1013",
+            "name": "Compiler Tooling",
+            "lecturer": "Prof. Dr. Christian Bischof",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323307402,-N391244323362403,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1020",
+            "name": "Praktikum Friedens-, Sicherheits- und Kriseninformatik",
+            "lecturer": "Prof. Dr. Dr. Christian Reuter",
+            "description": "Lehrinhalte : Das Praktikum beinhaltet Entwicklungsthemen aus der aktuellen Forschung des Fachgebiets „Wissenschaft und Technik für Frieden und Sicherheit“ (PEASEC). Neben einem generellen Überblick über aktuelle Themen wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen bestimmen sich aus den spezifischen Arbeitsgebieten der Mitarbeiter und vermitteln technische und einleitende wissenschaftliche Kompetenzen. Die Bearbeitung erfolgt in kleinen Gruppen. Themen für das aktuelle Semester finden Sie unter www.peasec.de/lehre ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325581625,-N391244325517626,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1027",
+            "name": "Projektpraktikum Friedens- und Kriseninformatik",
+            "lecturer": "Prof. Dr. Dr. Christian Reuter",
+            "description": "Lehrinhalte : Das Projektpraktikum beinhaltet Entwicklungsthemen aus der aktuellen Forschung des Fachgebiets „Wissenschaft und Technik für Frieden und Sicherheit“ (PEASEC). Neben einem generellen Überblick über aktuelle Themen wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen bestimmen sich aus den spezifischen Arbeitsgebieten der Mitarbeiter und vermitteln technische und einleitende wissenschaftliche Kompetenzen. Die Bearbeitung erfolgt in kleinen Gruppen. Projektmanagement und die Selbstorganisation im Team ist explizit Teil der Aufgabenstellung. Themen für das aktuelle Semester finden Sie unter www.peasec.de/lehre ",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326240695,-N391244326221696,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1029",
+            "name": "Projektpraktikum Algorithmik",
+            "lecturer": "Prof. Dr. rer. nat. Karsten Weihe",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326251689,-N391244326264690,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1041",
+            "name": "Systems Praktikum",
+            "lecturer": "Prof. Dr. rer. nat. Carsten Binnig; Prof. Ph.D. Zsolt Istvan",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106170822143,-N393106170889144,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1042",
+            "name": "Systems Projektpraktikum",
+            "lecturer": "Prof. Dr. rer. nat. Carsten Binnig; Prof. Ph.D. Zsolt Istvan",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106170840150,-N393106170895151,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1108",
+            "name": "Expertenpraktikum im Robot Learning",
+            "lecturer": "Prof. Ph. D. Jan Peters",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323360408,-N391244323380409,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1121",
+            "name": "Projektpraktikum Soft- und Hardwareentwicklung",
+            "lecturer": "Dr.-Ing. Wolfgang Heenes",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326372700,-N391244326351701,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1130",
+            "name": "Leistungsanalyse und Modellierung von Softwaresystemen",
+            "lecturer": "Prof. Ph.D. Zsolt Istvan",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325239585,-N391244325219586,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1137",
+            "name": "Projektpraktikum – Systematische Analyse der Sicherheit in Embedded und AI-basierten Systemen",
+            "lecturer": "Prof. Dr.-Ing. Ahmad-Reza Sadeghi",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326226687,-N391244326272688,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1138",
+            "name": "Praktikum – Systematische Analyse der Sicherheit in Embedded und KI-basierten Systemen",
+            "lecturer": "Prof. Dr.-Ing. Ahmad-Reza Sadeghi",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106244755196,-N393106244797197,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1166",
+            "name": "Praktikum Augmented and Virtual Reality",
+            "lecturer": "Prof. Dr. Arjan Kuijper; Dr.-Ing. Pavel Rojtberg",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325512623,-N391244325546624,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1170",
+            "name": "Praktikum zur intelligenten Robotermanipulation: Part II",
+            "lecturer": "Prof. Ph.D. Georgia Chalvatzaki",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326165685,-N391244326115686,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1199",
+            "name": "Praktikum Verteilte Robotiksysteme",
+            "lecturer": "Prof. Dr. Roderich Groß",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327770872,-N391244327748873,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1221",
+            "name": "Praktikum KI und Sicherheit in der Praxis",
+            "lecturer": "Dr. Oren Halvani; Prof. Dr. rer. nat. Michael Waidner",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393085776980255,-N393085776990256,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1222",
+            "name": "Sketching with Hardware",
+            "lecturer": "Prof. Dr. rer. nat. Florian Benjamin Müller",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393086319926277,-N393086319997278,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        },
+        {
+            "id": "20-00-1228",
+            "name": "Computing for Social Good",
+            "lecturer": "Prof. Dr. rer. nat. Isabella Graßl",
+            "description": "",
+            "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393286080892732,-N393286080836733,-N0,-N0,-N0",
+            "fields": [
+                "Praktika, Projektpraktika, ähnliche LV"
+            ],
+            "bonus": null,
+            "exams": [],
+            "terms": [
+                "summer"
+            ],
+            "exam_type": null
+        }
+    ]
+}
