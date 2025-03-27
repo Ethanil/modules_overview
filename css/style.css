@@ -1,75 +1,93 @@
+.module-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); /* Create columns that automatically fill space */
+    gap: 20px; /* Spacing between cards */
+    padding: 20px; /* Padding around the grid */
+    justify-content: center; /* Centers the grid as a whole (not individual items) */
+}
+
 .module-card {
     background-color: #fff;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px 0;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; /* Reduced border radius for a more compact feel */
+    padding: 15px; /* Reduced padding to make the card more compact */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1); /* Slightly smaller shadow for a denser look */
+    max-width: 100%; /* Ensure card doesn't overflow */
+    height: auto; /* Let the height adjust based on content */
 }
 
 .module-title {
-    font-size: 1.8rem;
+    font-size: 1.6rem; /* Reduced font size for a more compact title */
     color: #2a3d66;
-    margin-bottom: 15px;
+    margin-bottom: 10px; /* Reduced margin to bring title closer to content */
 }
 
 .module-details p {
-    margin: 10px 0;
-    font-size: 1rem;
+    margin: 8px 0; /* Reduced margin between paragraphs */
+    font-size: 0.95rem; /* Slightly smaller font size for details */
 }
 
 .exam-details {
-    display: none;
-    padding: 10px;
+    padding: 8px; /* Reduced padding for exam details */
     background-color: #f9f9f9;
-    border-left: 4px solid #54a0ff;
-    margin-bottom: 15px;
-}
-
-.exam-navigation {
-    margin-top: 20px;
-}
-
-.nav-button {
-    background-color: #2a3d66;
-    color: white;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-right: 10px;
-    font-size: 1rem;
-}
-
-.nav-button:hover {
-    background-color: #3b4a7a;
-}
-
-.chart-container {
-    max-width: 1000px;
-    margin: 20px auto;
-}
-
-.chart-container canvas {
-    max-width: 100%;
-    height: 400px;
+    border-left: 3px solid #54a0ff; /* Reduced border size */
+    margin-bottom: 12px; /* Reduced margin */
 }
 
 .description.collapsed {
     display: none;
 }
 
-.toggle-description-btn {
+.toggle-description-btn,
+.show-chart-btn {
     background-color: #2a3d66;
     color: white;
-    padding: 10px 15px;
+    padding: 8px 12px; /* Reduced padding for a denser button */
     border: none;
-    border-radius: 5px;
+    border-radius: 4px; /* Smaller border radius */
     cursor: pointer;
-    font-size: 1rem;
-    margin-bottom: 15px;
+    font-size: 0.9rem; /* Slightly smaller font size */
     transition: background-color 0.3s ease;
 }
 
-.toggle-description-btn:hover {
+.toggle-description-btn:hover,
+.show-chart-btn:hover {
     background-color: #3b4a7a;
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 15px; /* Reduced padding */
+    border-radius: 6px; /* Reduced border radius */
+    width: 45%; /* Slightly smaller width */
+    text-align: center;
+    position: relative;
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px; /* Adjusted position */
+    font-size: 18px; /* Smaller close button font size */
+    cursor: pointer;
+}
+
+.chart-container canvas {
+    width: 100%;
+    height: 350px; /* Slightly smaller chart height */
 }

@@ -6,7 +6,16 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-  <div id="module-container"></div>
+  <div id="module-container" class="module-container"></div>
+  <div id="chartModal" class="modal">
+    <div class="modal-content">
+        <span id="closeModal" class="close-btn">&times;</span>
+        <h3>Grading Chart</h3>
+        <div class="chart-container">
+            <canvas id="modal-chart"></canvas>
+        </div>
+    </div>
+</div>
   <script src="js/main.js"></script>
 </body>
 </html>
