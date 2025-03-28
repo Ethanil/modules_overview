@@ -6,16 +6,43 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
+  <div class="settings-bar">
+    <h2>Settings</h2>
+    <div class="sort-section">
+      <label>Sort by:</label>
+      <select id="sortSelect">
+        <option value="default">Default</option>
+        <option value="gradeAsc">Average Grade 1.0-5.0</option>
+        <option value="gradeDesc">Average Grade 5.0-1.0</option>
+        <option value="nameAsc">Module Name A-Z</option>
+        <option value="nameDesc">Module Name Z-A</option>
+      </select>
+    </div>
+    <div class="filter-section">
+      <h3>Filter by Field</h3>
+      <div id="fieldFilters"></div>
+    </div>
+    <div class="filter-section">
+      <h3>Filter by CP</h3>
+      <div id="cpFilters"></div>
+    </div>
+    <div class="filter-section">
+      <h3>Filter by Term</h3>
+      <div id="termFilters"></div>
+    </div>
+  </div>
+  
   <div id="module-container" class="module-container"></div>
+  
   <div id="chartModal" class="modal">
     <div class="modal-content">
-        <span id="closeModal" class="close-btn">&times;</span>
-        <h3>Grading Chart</h3>
-        <div class="chart-container">
-            <canvas id="modal-chart"></canvas>
-        </div>
+      <span id="closeModal" class="close-btn">&times;</span>
+      <h3>Grading Chart</h3>
+      <div class="chart-container">
+        <canvas id="modal-chart"></canvas>
+      </div>
     </div>
-</div>
+  </div>
   <script src="js/main.js"></script>
 </body>
 </html>

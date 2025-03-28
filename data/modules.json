@@ -7,7 +7,8 @@
             "description": "Lehrinhalte : Die Studierenden erhalten einen Überblick über die Herausforderungen der Multimedia Sicherheit und den bekannten Lösungsansätzen hierzu. Dazu gehören die Konzepte der Medien-Integrität, -Vertraulichkeit und -Authentizität. Verfahren aus dem Bereichen digitale Wasserzeichen, robuste Hashverfahren, partielle Verschlüsslung, Multimedia Forensik und DRM sind dem Studenten bekannt. Er kann Herausforderungen der Multimedia Sicherheit aus einer Palette von Lösungsmechanismen bedarfsabhängig optimal adressieren. Partielle Verschlüsselungsverfahren für Video und Audio zur Sicherung der Vertraulichkeit und der Authentizität Digitale Wasserzeichen für Bild und Audio - Anwendungsgebiete, Methoden und Verfahren Digital Rights Management und Kopierschutzverfahren Visuelle Kryptographie Neben der Diskussion von Algorithmen, deren Möglichkeiten, Grenzen und Schwachstellen nehmen auch die kommerziellen und gesellschaftlichen Aspekte des Einsatzes von Schutzmaßnahmen ihren Platz in der Vorlesung ein. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326828762,-N391244326800763,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -84,7 +85,8 @@
             "description": "Lehrinhalte : Diese Vorlesung bietet den Studierenden einen tiefen Einblick in einige der wichtigsten Themen der Internetsicherheit: - Network Security - Routing Security - Web Security - Security Engineering Die Studierenden lernen, wie moderne Cyberangriffe ablaufen, welche Schwachstellen ausgenutzt werden und welche Techniken und Protokolle verwendet werden können, um sie zu beheben und Systeme zu verteidigen. In dieser Vorlesung werden Angriffs- und Verteidigungstechniken auf Grundlage neuester wissenschaftlicher Veröffentlichungen behandelt. Theoretische und praktische Übungen testen die Fähigkeit der Studierenden, verschiedene Cyberangriffe zu erkennen und sich davor zu schützen. Nach erfolgreicher Teilnahme an der Veranstaltung sind die Studierenden in der Lage, kritisch über gängige Mechanismen und Protokolle zur Erhöhung der IT-Sicherheit heutiger Systeme zu diskutieren. Studierende haben nach Abschluss der Veranstaltung ein breites Wissen über IT-Sicherheit im Internet und sind mit modernen IT-Schutzkonzepten aus dem Bereich Network-, Routing-, Web-, und Software-Sicherheit vertraut. Sie sind in der Lage, Angriffsvektoren in IT-Systemen zu erkennen und Gegenmaßnahmen zu entwickeln. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325020563,-N391244325060564,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -233,7 +235,8 @@
             "description": "Lehrinhalte : - formale Modellierung sicherheitskritischer Systeme in Prädikatenlogik - Theoretische Grundlagen von Zugriffskontrollen und Informationsflusskontrollen - formale Modellierung von Sicherheitseigenschaften in Prädikatenlogik - Unterscheidung von qualitativen und quantitativen Sicherheitseigenschaften - Entscheidbarkeits- und Komplexitätsresultate für Sicherheitseigenschaften - Verifikation von Sicherheitsgarantien in verteilten Systemen - Auswirkung von Komposition und Verfeinerung auf Sicherheitsgarantien - formale Sprachen zur Beschreibung von Sicherheitspolitiken und deren Semantik - Zertifizierung sicherheitskritischer Systeme ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324549518,-N391244324561519,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -308,7 +311,8 @@
             "description": "Lehrinhalte : Die integrierte Veranstaltung Netzsicherheit umfasst Sicherheits-Prinzipien und -Praxis in Telekommunikationsnetzen und dem Internet. Die grundlegenden Verfahren aus dem Bereich IT Sicherheit und Kryptographie werden auf den Bereich der Kommunikationsnetze übertragen. Hierbei verfolgen wir einen Top-down Ansatz. Beginnend mit der Anwendungsschicht erfolgt eine detaillierte Betrachtung von Prinzipien und Protokollen zur Absicherung von Netzen. Ergänzend zu etablierten Mechanismen werden ausgewählte aktuelle Entwicklungen im Bereich Netzsicherheit erläutert. Lerninhalte: - Netzsicherheit: Einführung, Motivation und Herausforderungen - Grundlagen: Ein Referenzmodell für Netzsicherheit, Sicherheitsstandards für Netze und das Internet, Bedrohungen, Angriffe, Sicherheitsdienste und -mechanismen - Kryptographische Grundlagen zur Absicherung von Netzen: Symmetrische Kryptographie und deren Anwendung in Netzen, asymmetrische Kryptographie und deren Anwendung in Netzen, unterstützende Mechanismen zur Implementierung von Sicherheitslösungen - Sicherheit auf der Anwendungschicht - Sicherheit auf der Transportschicht - Sicherheit auf der Vermittlungsschicht - Sicherheit auf der Sicherungsschicht - Sicherheit auf der Bitübertragungsschit und physische Sicherheit - Angewandte Netzsicherheit: Firewalls, Intrusion Detection Systeme - Ausgewählte Themen der Netzsicherheit ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325352600,-N391244325392601,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -403,7 +407,8 @@
             "description": "Lehrinhalte : Trusted Computing - Authentifiziertes Booten - Binding und Sealing - Messen der Plattform-Integrität und Attestierung - Direct Anonymous Attestation - On-board Credentials Mobile Sicherheit mit Fokus auf Smartphones - Sicherheitsarchitekturen - Ausgewählte Zugriffsmodelle - Kontext-basierte Sicherheitsrichtlinien - Ausgewählte moderne Angriffstechniken Hardware-basierte Kryptographie - Sichere Berechnungen basierend auf Hardware - Einführung in Physikalisch Unklonbare Funktionen (PUFs) ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324431507,-N391244324404508,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -516,7 +521,8 @@
             "description": "Lehrinhalte : Die Vorlesung Sichere Mobile Systeme befasst sich mit Fragen zur Sicherheit in drahtlosen und Mobilen Netzen und Kommunikationssystemen. Grundlagen der Thematik werden durch aktuelle Forschungsthemen ergänzt. Lerninhalte: - Sicherheitsbetrachtung und Modellierung von Bedrohungen bei mobilen und drahtlosen Systemen - Ausgewählte Angriffe und Sicherheitsmechanismen spezifisch für mobile und drahtlosen Systeme - Sicherheit in drahtlosen Sensornetzen - Sicherheit in drahtlosen Mesh-Netzen - Bedrohungen und Schutz der Privatsphäre in mobilen und drahtlosen Systemen - Sicherheit in zellularen Netzen (GSM, UMTS, LTE) - Etablierung von Vertrauen - Ausgewählte Forschungsthemen in mobilen und drahtlosen Systemen ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327754866,-N391244327720867,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -557,7 +563,8 @@
             "description": "Lehrinhalte : Aktuelle Arbeiten aus dem Gebiet der Kryptographie und Komplexitätstheorie verstehen und neue Forschungsansätze herausarbeiten. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327480838,-N391244327441839,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -598,7 +605,8 @@
             "description": "Lehrinhalte : Die Vorlesung Schutz in vernetzten Systemen behandelt Konzepte der IT-Sicherheit und Digitalizierung, die über die klassisch gelehrten Inhalte hinaus geht. Diese klassischen Inhalte, bspw. Kryptographie, werden als essenzielle Grundlagen dieser Veranstaltung gesehen. In den Fokus dieser Vorlesung steht der Schutz erweiterterte Ziele in den immer weiter vordringendenen verteilen Systemen. - Schutz in vernetzten Systemen: Hintergrund, Motivation und Herausforderungen - Privatheit: Definitionen, Modelle, Daten-Anonymität - Digitalizierung: Modelle und Mechanismen (z.B. Distributed Ledger Technology/Blockchain, Digitale Zwillinge) - Sicherheit & Ökonomie - Widerstandsfähigkeit: Modelle, Netzwerk-Angriffserkennungs-Systeme, kollaborative Angriffserkennung, Honeypots - Resilient Networks: Messung von Resilienz und Verlässlichkeit (Dependability), Verfahrung zu Steigerung der Resilienz in verteilten Systemen Die Vorlesung wird mit einer mündlichen Prüfung abgeschlossen, die aus einer Posterpräsentation zu einer Aufgabe besteht, die mit den Themen der Lehrveranstaltung verbunden ist, sowie aus Fragen/Diskussionen zu den in der Lehrveranstaltung behandelten Themen. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326745748,-N391244326754749,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -673,7 +681,8 @@
             "description": "Lehrinhalte : Technologische und wissenschaftliche Fortschritte, insbesondere die rapiden Entwicklungen im Bereich der Informationstechnologie (IT), spielen im Bezug auf Frieden und Sicherheit eine zentrale Rolle. Diese Lehrveranstaltung adressiert die Bedeutung sowie die Potenziale und Herausforderungen von IT für Frieden und Sicherheit. Zu diesem Zweck bietet der Kurs eine Einführung in Friedens-, Konflikt- und Sicherheitsforschung und konzentriert sich dabei auf die Perspektiven der Naturwissenschaften, Technik und Informatik. Dabei werden Konflikte, Krieg und Frieden im Cyberraum, Cyber-Rüstungskontrolle, -Attribution und -Infrastrukturen sowie Kultur und Interaktion näher beleuchtet, bevor abschließend ein Ausblick gegeben wird. INHALTE: - Einführung in die naturwissenschaftliche/technische Friedensforschung und IT-Perspektiven auf Friedens-, Konflikt- und Sicherheitsforschung - Cyberkrieg, Spionage, Abwehr, Darknets, kritische Infrastrukturen, kulturelle Gewalt - Cyberfrieden, Dual-Use, vertrauens- und sicherheitsbildende Maßnahmen, Rüstungskontrolle, unbemannte Systeme, Verifikation, Attribution STRUKTUR: - Teil I: Einleitung und Grundlagen (Einleitung und Überblick, IT in Friedens-, Konflikt- und Sicherheitsforschung (Naturwissenschaftliche/technische Friedensforschung)) - Teil II: Cyber-Konflikte und -Krieg (Informationskrieg, Cyberspionage und Cyberabwehr, Darknets als Instrument zur Cyber-Kriegsführung) - Teil III: Cyber-Frieden (Von Cyber-Krieg zu Cyber-Frieden, Dual-Use und Dilemmata in der Cyber-Sicherheit, Vertrauens- und sicherheitsbildende Maßnahmen für Cyber-Streitkräfte) - Teil IV: Cyber-Rüstungskontrolle (Rüstungskontrolle und ihre Anwendbarkeit im Cyberraum, Unbemannte Systeme: Die robotertechnische Revolution, Verifikation im Cyberraum) - Teil V: Cyber-Attribution und -Infrastrukturen (Attribution von Cyberattacken, Resiliente kritische Infrastrukturen, Sicherheit kritischer Informationsinfrastrukturen) - Teil VI: Soziale Interaktion (Safety und Security, Kulturelle Gewalt, Soziale Medien und IKT-Nutzung in Krisengebieten) - Teil VII: Ausblick (Die Zukunft von IT in Frieden und Sicherheit) Besonderheiten für das aktuelle Semester finden Sie unter www.peasec.de/lehre; den Moodle-Kurs unter www.itps.peasec.de ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391545436237025,-N391545436241026,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -714,7 +723,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325172577,-N391244325127578,-N0,-N0,-N0",
             "fields": [
-                "IT Sicherheit"
+                "IT Sicherheit",
+                "Wahlbereich Cybersicherheit und Privatheit"
             ],
             "bonus": null,
             "exams": [
@@ -1208,7 +1218,8 @@
             "description": "Lehrinhalte : • Markov Decision Process • Value Functions, Bellman Operator, Policies • Dynamic Programming • Monte-Carlo Reinforcement Learning • Temporal Difference Learning • Tabular Reinforcement Learning • Reinforcement Learning with Function Approximation • Deep Q-Learning • On-policy and off-policy deep actor-critic • Model-based Reinforcement Learning • Intrinsic Motivation ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326674740,-N391244326630741,-N0,-N0,-N0",
             "fields": [
-                "Robotik, Computational und Computer Engineering"
+                "Robotik, Computational und Computer Engineering",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -1424,7 +1435,8 @@
             "description": "Lehrinhalte : Lernziele: Modellierungsstrategien für Entscheidungs-, Konstruktions- und Optimierungsprobleme kennen lernen Erlernen einer algorithmischenn Modellierungssprache Erwerben der Fähigkeit, komplexe Probleme adäquat zu modellieren Stoffplan: Algorithmische Optimierungssprachen wie OPL Modellierung innerhalb eines restriktiven Modellierungsrahmens (zum Beispiel lineare Optimierung oder ganzzahlige lineare Optimierung) Modellierung als kombinatorische Optimierungsprobleme (z.B. Netzwerkflussprobleme, Färbungsprobleme, Wegeprobleme) Komplexe Fallbeispiele aus der Praxis, zum Beispiel: Modellierung der Fahrplanauskunft im Bahnverkehr Modellierung der Steuerung von Fertigungsrobotern deterministisches und stochastisches Scheduling Diploma Supplement: Algorithmic modeling languages; modeling problems as (integer) linear programming problems; complex case studies; applications in logistics and manufacturing; deterministic and stochastic scheduling; combinatorial optimization problems ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324089465,-N391244324056466,-N0,-N0,-N0",
             "fields": [
-                "Software Systeme und formale Grundlagen"
+                "Software Systeme und formale Grundlagen",
+                "Wahlbereich Theorie"
             ],
             "bonus": null,
             "exams": [
@@ -1465,7 +1477,8 @@
             "description": "Lehrinhalte : - Theoretische Grundlagen der im automatischen Beweisen verwendeten Kalküle für Logik erster Stufe - Korrektheits- und Vollständigkeitsbeweise - Algorithmen und Datenstrukturen, die in automatischen Beweisern für Logik erster Stufe eingesetzt werden - Vergleich verschiedener Ansätze im automatischen Beweisen - Grundlagen moderner SAT- und SMT-Lösungswerkzeuge ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392324980288811,-N392324980204812,-N0,-N0,-N0",
             "fields": [
-                "Software Systeme und formale Grundlagen"
+                "Software Systeme und formale Grundlagen",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -1560,7 +1573,8 @@
             "description": "Lehrinhalte : - Compilierung und Laufzeitumgebung für objektorientierte Programmiersprachen - Kontrollflussgraphen als Zwischendarstellung - Statische Datenflußanalyse - Static Single Assignment Form - Eliminierung totaler und partieller Redundanz - Skalare Optimierung - Registerallokation - Ablaufplanung - Schleifenoptimerung - Aufbau realer Compiler (z.B. Phasen, Zwischendarstellung, Compilefluß) ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324776534,-N391244324784535,-N0,-N0,-N0",
             "fields": [
-                "Software Systeme und formale Grundlagen"
+                "Software Systeme und formale Grundlagen",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2045,7 +2059,8 @@
             "description": "Lehrinhalte : Lernziele: Grundlagen der Geometrischen Modellierung, Modelle in der graphischen Datenverarbeitung (Kurven, Oberflächen und Volumen), Displaymethoden, Renderingtechniken, Datenstrukturen und Algorithmen für Netze und Netzkonvertierung Stoffplan: Kurven und Oberflächen (Polynome, Splines, RBF) Interpolation und Approximation, Displaytechniken, Algorithmen: de Casteljau, de Boor, Oslo,... Volumen und implizite Oberflächen Visualisierungstechniken, Iso-Surfaces, MLS, Oberflächen-Rendering, Marching-Cubes,... Netze Kompression , Netz-Vereinfachung, Multiskalen Darstellung, Subdivision,... Diploma Supplement: Curves and surfaces (polynomials, splines, RBF) Interpolation and approximation, display techniques, algorithms: de Casteljau, de Boor, Oslo,... Volume and implicite surfaces, visualization techniques, iso-surfaces, MLS, surface rendering, marching cubes meshes, compression, simplication, multiscale expansion, subdivision ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324831540,-N391244324879541,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2104,7 +2119,8 @@
             "description": "Lehrinhalte : Überblick über die Grundlagen der Bildverarbeitung: - Bildeigenschaften - Bildtransformationen - einfache und komplexere Filterung - Bildkompression - Segmentierung - Klassifikation ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324161482,-N391244324107483,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2163,7 +2179,8 @@
             "description": "Lehrinhalte : Lernziele : Kurzbeschreibung: Einführung in die Problematik der Computer Vision in Hinblick auf Augmented Reality. Die Lerninhalte umfassen: * Computer-Vision-basiertes Tracking * 3D-Interaktionen * 3D-Standards * Kamerakalibrierung * Echtzeit 3D-Rekonstruktion * 3D Kameratechnologien * Objekterkennung * Augmented Reality Praxisbeispiele und Anwendungsfelder Stoffplan : Im Rahmen dieser Lehrveranstaltung werden zuerst die Grundlagen, Begriffsbildungen und Referenzmodelle zur Einordnung der Thematik im Rahmen der Computer-Graphik aufgezeigt. Aufbauend darauf werden die besonderen Technologien, Algorithmen und Methoden der Visualisierung und AR behandelt. Dazu gehören: Gerätetechnologien (Hardware, Ein- und Ausgabegeräte, Haptik, 3D-Sound, etc. ), die für diesen Bereich spezifischen Probleme der Datenschnittstellen (Standards, Vorverarbeitung, Systeme, etc.), Interaktionstechniken (inkl. Echtzeit-Kollisionserkennung), Darstellungsverfahren (Volumenvisualisierung, Echtzeit-Rendering, Radiosity), Handhabung großer und komplexer Datenmengen, Echtzeit-Simulationsverfahren und Parallelisierungsstrategien (inkl. verteilter Anwendungen). Schließlich werden diese Techniken an Beispielen aktueller Forschungsarbeiten aus den Bereichen Visualisierung (Medizin, Wetter, Strömungsdaten) und AR (Virtual Prototyping, Training, Einbau- Montagesimulation, Architektur walk-through etc.) dokumentiert. Diploma Supplement : real-time rendering, color systems, light simulation, virtual reality, augmented reality, camera calibration ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324116479,-N391244324179480,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2240,7 +2257,8 @@
             "description": "Lehrinhalte : - Grundlegende Inferenz- und Lernverfahren der Computer Vision - Grundlagen der tiefen neuronalen Netzwerke in der Computer Vision - Grundlagen der Bayes’schen Netze und Markov’schen Zufallsfelder - Computer Vision als (probabilistische) Inferenz - Fehlerfunktionen und robuste Schätzung/Modellierung - Bildrestaurierung - Stereo - Optischer Fluß - Objektdetektion - Tracking von (artikulierten) Objekten - Semantische Segmentierung - Aktuelle Themen der Forschung ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324236485,-N391244324288486,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -2317,7 +2335,8 @@
             "description": "Lehrinhalte : Die Vorlesung stellt verschiedene grundlegende Konzepte, Modelle und Theorien aus dem Bereich der Human Computer Interaction (HCI) vor. Die Veranstaltung umfasst die folgenden Inhalte: - Theoretische Grundlagen aus Psychologie und Interaktionsgestaltung als Basis für die Gestaltung von Nutzerschnittstellen - Überblick über verschiedene Typen von Nutzerschnittstellen - Command-line interfaces - Grafische Nutzerschnittstellen - Interaktive Oberflächen (Tabletops, Multitouch, ...) - Mobile user interfaces - Pen-based user interfaces (elektronische Stifte) - Tangible User Interfaces, Organic User Interfaces - Sprachbasierte User Interfaces - Augmented und Virtual Reality - Beurteilung, Messung, Bewertung von Nutzerschnittstellen - Nutzerstudien - Quantitative Evaluationsmethoden - Qualitative Evaluationsmethoden - Nutzerzentrierte Softwareentwicklung - Datenvisualisierung ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324970547,-N391244324923548,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2430,7 +2449,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325407614,-N391244325487615,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2507,7 +2527,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327133794,-N391244327134795,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware"
             ],
             "bonus": null,
             "exams": [
@@ -2584,7 +2605,9 @@
             "description": "Lehrinhalte : Generative Modelle, implizite und explizite Modelle, Variational AutoEncoders, Generative Adversarial Networks, Numerische Optimierung für generative Modelle, Anwendungen in der medizinischen Bildverarbeitung ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244327064788,-N391244327013789,-N0,-N0,-N0",
             "fields": [
-                "Visual & Interactive Computing"
+                "Visual & Interactive Computing",
+                "Wahlbereich Software und Hardware",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -2924,7 +2947,8 @@
             "description": "Lehrinhalte : Dieser Kurs soll ein Grundverständnis zum Data Mining und Maschinellen Lernen vermitteln. Ausgehend von einer kurzen Geschichte der KI und einer Klärung, wie Data Mining/Maschinelles Lernen und KI zu einander stehen, werden die grundlegenden Lernaufgaben (Klassifikation, Regression, Clusteranalyse) und -settings (überwacht, unüberwacht, verstärkend) sowie Assoziationsregeln vorgestellt. Weiterhin werden verschiedene Modelltypen des maschinellen Lernens behandelt; von linearen Modellen, Baum-basierten Verfahren, Support-Vektor-Maschinen bis hin zu tiefen neuronalen Netzen. Ein weiterer Fokus wird darauf gelegt, wie diese Modelle evaluiert, in einem Ensemble kombiniert und die Wahl für eine Modell-Entscheidung begründet werden kann. In der Übung wird der Stoff anhand von praktischen Aufgaben in Python vertieft. Theoretische Übungsaufgaben, die unter anderem auf die Annahmen und Limitierungen der Modelltypen abzielen, ergänzen dabei die Programmieraufgaben. Themenübersicht : Überblick zum Maschinellen Lernen Datenanalyse-Zyklus (CRISP) K-nächste-Nachbarn  (k-nearest neighbors) Kreuzvalidierung  (cross validation) Überanpassung  (overfitting) Bias-Varianz Tradeoff Klassifikation Regression Lineare Modelle Modell-Selektion und Evaluierung Baumbasierte Verfahren (decision trees) Ensemble Methoden (Bagging & Boosting) Naive Bayes Bayes'sche Netzwerke Support Vector Machines K-Means Deep Learning Multi-Layer Perceptron Convolutional Neural Networks Assoziationsregeln ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324208492,-N391244324240493,-N0,-N0,-N0",
             "fields": [
-                "Web, Wissens- und Informationsverarbeitung"
+                "Web, Wissens- und Informationsverarbeitung",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -3127,7 +3151,8 @@
             "description": "Lehrinhalte : All you need to know about contemporary natural langauge processing (NLP) using deep learning. More about foundations, less about particular frameworks or implementations. Content: - Deep learning foundations (learning from data, learning problem formalization, loss functions, training with backpropagation, evaluation) - NLP as supervised task learning - Language representation (word embeddings, multi-lingual embeddings) - Prominent architectures (convoluational neural networks, recurrent neural networks) - Contemporary architectures and foundational models (transformers and BERT) - Applications (text classification, text generation, translation) ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324311495,-N391244324369496,-N0,-N0,-N0",
             "fields": [
-                "Web, Wissens- und Informationsverarbeitung"
+                "Web, Wissens- und Informationsverarbeitung",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -3258,7 +3283,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324393498,-N391244324314499,-N0,-N0,-N0",
             "fields": [
-                "Web, Wissens- und Informationsverarbeitung"
+                "Web, Wissens- und Informationsverarbeitung",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -3389,7 +3415,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323928457,-N391244323924458,-N0,-N0,-N0",
             "fields": [
-                "Web, Wissens- und Informationsverarbeitung"
+                "Web, Wissens- und Informationsverarbeitung",
+                "Wahlbereich Komplexe vernetzte Systeme"
             ],
             "bonus": null,
             "exams": [
@@ -3448,7 +3475,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324433509,-N391244324408510,-N0,-N0,-N0",
             "fields": [
-                "Web, Wissens- und Informationsverarbeitung"
+                "Web, Wissens- und Informationsverarbeitung",
+                "Wahlbereich Künstliche Intelligenz"
             ],
             "bonus": null,
             "exams": [
@@ -5153,7 +5181,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325578628,-N391244325536629,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5175,7 +5204,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325664630,-N391244325663631,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5197,7 +5227,8 @@
             "description": "Lehrinhalte : Software Engineering ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325763649,-N391244325760650,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5219,7 +5250,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325798646,-N391244325747647,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5241,7 +5273,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325831651,-N391244325880652,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5279,7 +5312,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325930667,-N391244325954668,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5301,7 +5335,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325944669,-N391244325978670,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5339,7 +5374,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325780642,-N391244325765643,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5361,7 +5397,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325658634,-N391244325652635,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5383,7 +5420,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325616636,-N391244325679637,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5405,7 +5443,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325865653,-N391244325864654,-N0,-N0,-N0",
             "fields": [
-                "Praktika in der Lehre"
+                "Praktika in der Lehre",
+                "Praktikum in der Lehre"
             ],
             "bonus": null,
             "exams": [],
@@ -5780,7 +5819,8 @@
             "description": "Lehrinhalte : Lernziele: Methodische Untersuchung des Sicherheitszustands von IT-Systemen und Anwendungen zur Identifikation von Schwachstellen inklusive der Bewertung ihrer Kritikalität Praktisches Verständnis für Sicherheitslücken und ihre Auswirkungen Anwendung verbreiteter Techniken und Werkzeuge für technische Sicerheitsanalysen Verantwortungsvoller Umgang mit identifizierten Schwachstellen Einblick ins Berufsbild Penetration Testing und Abgrenzung zu Capture-the-Flag (CTF) Stoffplan: Der Fokus der Veranstaltung besteht in der Analyse von unbekannten IT-Systemen und Anwendungen, um Sicherheitslücken gezielt zu identifizieren und auszunutzen. Analyse- und Exploit-Werkzeuge können dabei in einer kontrollierten Umgebung (PentestLab) erprobt werden. Ergänzend werden zu jedem Veranstaltungstermin Themenbereiche der IT-Sicherheit von den Studierenden im Team vorgestellt. Dabei werden sowohl allgemeine Hintergründe beleuchtet als auch konkrete Methoden und Werkzeuge zur Identifikation, Ausnutzung und Behebung relevanter Schwachstellen praxisnah vorgestellt. Zum Semesterende erhalten die Teilnehmenden die Möglichkeit, das Erlernte anzuwenden, um bisher unbekannte Schwachstellen in Open-Source Software zu identifizieren, einen Vorschlag für die Behebung zu entwickeln und diese Informationen gemäß Best Practices der “Responsible Disclosure” an die Entwickler zu melden. Damit ergibt sich der folgende Aufbau des Praktikums: Vorstellung eines Teilbereichs der praktischen IT-Sicherheit: relevante Schwachstellen, (automatisiertes) Identifizieren und Ausnutzen dieser Schwachstellen, Gegenmaßnahmen Sicherheitsanalysen von IT-Systemen und Anwendungen in einem klassischen Capture-the-Flag (CTF) Aufbau in mehreren Runden Diskussion identifizierter Schwachstellen und ihrer Kritikalität Diskussion und Bewertung von allgemeinen und konkreten Härtungsmaßnahmen Identifikation bisher unbekannter Schwachstellen in einer Open-Source Software Verantwortungsvolle Meldung von Schwachstellen im Rahmen eines “Responsible Disclosure” Prozesses ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324863543,-N391244324886544,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -5947,7 +5987,8 @@
             "description": "Lehrinhalte : Das Praktikum behandelt die angewandte Softwareentwicklung in den Themenbereichen der Arbeitsgruppe Algorithmik (zum Beispiel im Bereich Mobilität oder Lehre). Ziel ist das eigenständige Bearbeiten eines Entwicklungsprojektes inklusive Evaluation und Dokumentation der erstellten Lösung. Der Vorbesprechungstermin für die Themen in diesem Semester wird auf der Seite des Algorithmik Fachgebiets https://www.algo.informatik.tu-darmstadt.de/ bekanntgegeben. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325595619,-N391244325567620,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -5988,7 +6029,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326603742,-N391244326606743,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6010,7 +6052,8 @@
             "description": "Lehrinhalte : Das Praktikum behandelt die angewandte Softwareentwicklung in den Themenbereichen der Arbeitsgruppe Algorithmik (zum Beispiel im Bereich Mobilität oder Lehre). Ziel ist das eigenständige Bearbeiten eines Entwicklungsprojektes inklusive Evaluation und Dokumentation der erstellten Lösung. Der Vorbesprechungstermin für die Themen in diesem Semester wird auf der Seite des Algorithmik Fachgebiets https://www.algo.informatik.tu-darmstadt.de/ bekanntgegeben. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325593621,-N391244325564622,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6032,7 +6075,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324967551,-N391244324993552,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6091,7 +6135,8 @@
             "description": "Lehrinhalte : - selbständige Bearbeitung einer konkreten Aufgabenstellung aus der Entwicklung und Anwendung moderner Robotersysteme unter Anleitung und (nach Möglichkeit) in einem Team von Entwicklern - Einarbeitung in den relevanten Stand der Forschung und Technik - Erarbeitung eines Lösungsvorschlags und dessen Umsetzung und Implementierung - Anwendung und Evaluierung anhand von Roboterexperimenten oder -simulationen - Dokumentation von Aufgabenstellung, Vorgehensweise, Implementierung und Ergebnissen in einem Abschlussbericht und Durchführung einer Abschlusspräsentation ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324935556,-N391244324912557,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6113,7 +6158,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393273740159231,-N393273740104232,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6135,7 +6181,8 @@
             "description": "Lehrinhalte : Im Rahmen dieses Praktikums werden ausgewählte Themen aus dem Bereich Visual Computing von den Studierenden bearbeitet und am Ende des Praktikums in einem Vortrag vorgestellt. Die konkreten Themen wechseln von Semester zu Semester und sollten direkt mit einem der Lehrenden angesprochen werden. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326016679,-N391244326003680,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6248,7 +6295,8 @@
             "description": "Lehrinhalte : Die Teilnehmer entwickeln in Kleingruppen (4-6 Personen) Softwaresysteme und -komponenten im Forschungsfeld des Lehrstuhls Telekooperation. Im Nachfolgenden eine (beispielhafte) Liste möglicher Themen: Novel interactions with AR/VR devices or drones Digital Fabrications Remote Collaboration Smart Street Lamps Personal Assistants Process Mining Labels: Quantified Self App Kraken.me: Tracking suite Big Data Analysis / Data Mining DisVis: Katastrophensimulator (Mobile) Cloud Computing (Mobile) Activity recognition and prediction Social Network Analysis Botnet Surveillance System (BoSS) Botnet Simulation Framework (BSF) Storytelling da_sense: Visualisation of open data Node Based Algorithm Programming Framework (ANISE) Collaborative intrusion detection Cyber Incident Monitoring based on honeypot sensors Twitterize2: Anonymize Twitter HTC: Holon Test Center ... Weitere Forschungsthemen sind auf unserem Webauftritt zu finden: https://www.tk.informatik.tu-darmstadt.de ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326346704,-N391244326331705,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6270,7 +6318,8 @@
             "description": "Lehrinhalte : Im Rahmen dieses Praktikums werden ausgewählte fortgeschrittene Themen aus dem Bereich Visual Computing von den Studierenden bearbeitet und am Ende des Praktikums in einem Vortrag vorgestellt. Die konkreten Themen wechseln von Semester zu Semester und sollten direkt mit einem der Lehrenden angesprochen werden. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324798536,-N391244324746537,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6292,7 +6341,8 @@
             "description": "Lehrinhalte : Das Praktikum Sichere Mobile Netze behandelt die angewandte Softwareentwicklung und Hardware-Software Entwicklung in den Themenbereichen Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation bzw. der Kombination dieser Bereiche. Ziel ist das Lösen einer Problemstellung im Team aus den genannten Bereichen durch Implementierung in Software bzw. Hardware/Software. Die Themen des Praktikums speisen sich aus den aktuellen Forschungsthemen der Arbeitsgruppe SEEMOO. Die angebotenen Themen werden in der Kick-Off Veranstaltung vorgestellt und im Anschluss nach Präferenzen vergeben. Weitere Details werden im Moodle Kurs bekanntgegeben. Lerninhalte: - Lösen einer Fragestellung im Bereich Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation - Rechereche von Lösungsalternativen und Abwägung von Vor-/Nachteilen der Alternativen - Konzipieren einer Softwarearchitektur bzw. kombinierten Hardware-Software Architektur - Entwerfen eines auf die Zielplattform angepassten Hardware-/Softwaredesigns - Prototypische Umsetzung auf der ausgewählten Zielplattform - Evaluation des Gesamtsystems in Bezug auf verschiedene Gütemaße - Dokumentation der erstellten Lösung ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326041675,-N391244326021676,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6351,7 +6401,8 @@
             "description": "Lehrinhalte : Das Projektpraktikum Sichere Mobile Netze behandelt die angewandte Softwareentwicklung und Hardware-Software Entwicklung in den Themenbereichen Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation bzw. der Kombination dieser Bereiche. Ziel ist das eigenständige Bearbeiten eines Entwicklungsprojektes im Team. Die Themen des Projektpraktikums speisen sich aus den aktuellen Forschungsthemen der Arbeitsgruppe SEEMOO. Die angebotenen Themen werden in der Kick-Off Veranstaltung vorgestellt und im Anschluss nach Präferenzen vergeben. Weitere Details werden im Moodle Kurs bekanntgegeben. Lerninhalte: - Eigenständiges Bearbeiten eines Entwicklungsprojektes im Bereich Kommunikationsnetze, Sicherheit, Mobile Netze und Drahtloser Kommunikation - Projektplanung und Projektmanagement - Rechereche von Lösungsalternativen und Abwägung von Vor-/Nachteilen der Alternativen - Konzipieren einer Softwarearchitektur bzw. kombinierten Hardware-Software Architektur - Entwerfen eines auf die Zielplattform angepassten Hardware-/Softwaredesigns - Prototypische Umsetzung auf der ausgewählten Zielplattform - Evaluation des Gesamtsystems in Bezug auf verschiedene Gütemaße - Dokumentation der erstellten Lösung sowie ausführliche Dokumentation des Projektmanagements ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326315698,-N391244326327699,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6373,7 +6424,8 @@
             "description": "Lehrinhalte : Praktische Anwendung von Algorithmen in den Bereichen Robuste Hashverfahren, Image Registration, File Forensik, Multimedia Kryptographie, Web Content Retrieval ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324991549,-N391244324910550,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6432,7 +6484,8 @@
             "description": "Lehrinhalte : Teilnehmerinnen und Teilnehmer bearbeiten alleine oder in einer Kleingruppe eigenständig eine individuell gestellte praktische Aufgabe aus dem Bereich der technischen Informatik. Die Aufgaben sind dabei in der Regel Programmier- und/oder Hardware-Entwicklungsarbeiten angelehnt an die aktuellen Forschungen am Fachgebiet für Eingebettete Systeme und ihre Anwendungen. ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326105683,-N391244326109684,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6454,7 +6507,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326893770,-N391244326838771,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6513,7 +6567,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325273588,-N391244325277589,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6572,7 +6627,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325236590,-N391244325213591,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6629,7 +6685,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244324400505,-N391244324475506,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6706,7 +6763,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323416410,-N391244323478411,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6728,7 +6786,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N392333290627657,-N392333290672658,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6769,7 +6828,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244323307402,-N391244323362403,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6791,7 +6851,8 @@
             "description": "Lehrinhalte : Das Praktikum beinhaltet Entwicklungsthemen aus der aktuellen Forschung des Fachgebiets „Wissenschaft und Technik für Frieden und Sicherheit“ (PEASEC). Neben einem generellen Überblick über aktuelle Themen wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen bestimmen sich aus den spezifischen Arbeitsgebieten der Mitarbeiter und vermitteln technische und einleitende wissenschaftliche Kompetenzen. Die Bearbeitung erfolgt in kleinen Gruppen. Themen für das aktuelle Semester finden Sie unter www.peasec.de/lehre ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244325581625,-N391244325517626,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6813,7 +6874,8 @@
             "description": "Lehrinhalte : Das Projektpraktikum beinhaltet Entwicklungsthemen aus der aktuellen Forschung des Fachgebiets „Wissenschaft und Technik für Frieden und Sicherheit“ (PEASEC). Neben einem generellen Überblick über aktuelle Themen wird ein tiefgehender Einblick in ein spezielles Entwicklungsgebiet vermittelt. Die Themen bestimmen sich aus den spezifischen Arbeitsgebieten der Mitarbeiter und vermitteln technische und einleitende wissenschaftliche Kompetenzen. Die Bearbeitung erfolgt in kleinen Gruppen. Projektmanagement und die Selbstorganisation im Team ist explizit Teil der Aufgabenstellung. Themen für das aktuelle Semester finden Sie unter www.peasec.de/lehre ",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326240695,-N391244326221696,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6835,7 +6897,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N391244326251689,-N391244326264690,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
@@ -6857,7 +6920,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106170822143,-N393106170889144,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [
@@ -6934,7 +6998,8 @@
             "description": "",
             "url": "https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000709,-N0,-N393106170840150,-N393106170895151,-N0,-N0,-N0",
             "fields": [
-                "Praktika, Projektpraktika, ähnliche LV"
+                "Praktika, Projektpraktika, ähnliche LV",
+                "Praktika, Projektpraktika und ähnliche Veranstaltungen"
             ],
             "bonus": null,
             "exams": [],
