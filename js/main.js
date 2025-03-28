@@ -247,14 +247,24 @@ function renderModules() {
 
   // Sort modules
   const sortedModules = [...filteredModules].sort(([a, _], [b, __]) => {
+    const calculateOverallAverage = (module) => {
+      let totalGradeSum = 0;
+      let totalCount = 0;
+  
+      module.exams.forEach((exam) => {
+        Object.entries(exam.grades).forEach(([grade, count]) => {
+          const numericGrade = parseFloat(grade);
+          totalGradeSum += numericGrade * count;
+          totalCount += count;
+        });
+      });
+  
+      return totalCount > 0 ? totalGradeSum / totalCount : 0;
+    };
     const aHasExams = a.exams.length > 0;
     const bHasExams = b.exams.length > 0;
-    const aGrade = aHasExams
-    ? a.exams.reduce((prev, current) => prev + current.average, 0) / a.exams.length 
-    : 0;
-  const bGrade = bHasExams
-    ? b.exams.reduce((prev, current) => prev + current.average, 0) / b.exams.length 
-    : 0;
+    const aGrade = calculateOverallAverage(a);
+    const bGrade = calculateOverallAverage(b);
     switch (currentSort) {
       case "gradeAsc":
         if (!aHasExams && bHasExams) return 1;
